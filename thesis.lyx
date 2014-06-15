@@ -233,6 +233,16 @@ filename "ConceptualFramework.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand include
+filename "LocalConditions.lyx"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset include
+LatexCommand include
 filename "Conclusion.lyx"
 
 \end_inset

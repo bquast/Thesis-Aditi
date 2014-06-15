@@ -96,7 +96,7 @@ biblatex
 \begin_layout Title
 \begin_inset Graphics
 	filename figure/logo.jpg
-	scale 150
+	scale 200
 
 \end_inset
 
@@ -115,7 +115,11 @@ status open
 
 \end_inset
 
-Local Conditions on the Universal Liberal Peace: Peacebuilding in Sri Lanka
+Local Conditions on the Universal Liberal Peace:
+\begin_inset Newline newline
+\end_inset
+
+ Peacebuilding in Sri Lanka
 \end_layout
 
 \begin_layout Author
@@ -201,6 +205,12 @@ LatexCommand tableofcontents
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset nomencl_print
+LatexCommand printnomenclature
+set_width "auto"
+
+\end_inset
+
 
 \end_layout
 

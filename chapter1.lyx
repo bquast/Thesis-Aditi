@@ -1,0 +1,759 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass report
+\begin_preamble
+\usepackage[style=verbose,natbib=true,backend=biber]{biblatex}
+\usepackage{hyperref}
+
+\addbibresource{C:/Users/Aditi/Desktop/thesis.bib}
+
+\let\citet\footcite
+\end_preamble
+\use_default_options true
+\begin_modules
+biblatex
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine natbib_authoryear
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Introduction
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Introduction}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For most observers, the 2009 military operation that ended the two decade
+ long Sri Lankan civil War, famously labeled by President Rajapaksa as “
+ the battle to defeat terrorism,” marked the failure of the liberal peacebuildin
+g project.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rajapaksa2014our"
+
+\end_inset
+
+ Also known as the ‘Northern offensive,’ the operation marked the Sri Lanka
+ Army’s (SLA
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "SLA"
+description "Sri Lanka Army"
+
+\end_inset
+
+) offensive against the separatist 
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "LTTE"
+description "Liberation Tigers of Tamil Eelam;  the Tamil separatist militant organisation, based in northern Sri Lanka "
+
+\end_inset
+
+ (LTTE), towards regaining control of the Northern Province, the Tamil heartland
+ which had been the LTTE’s stronghold during the 25 year civil war.
+ The separatist group had been defeated and forced to retreat from the Eastern
+ Province of Sri Lanka in July 2007, and the loss of the north meant a decisive
+ victory for the SLA and their Commander-in-Chief, President Rajapaksa.
+ What has been of continued embarrassment for proponents of international
+ peacebuilding is that during the year and a half long military operation,
+ the UN
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "UN"
+description "United Nations"
+
+\end_inset
+
+ and other international humanitarian actors decided to withdraw from the
+ contested territories, following the government’s declaration that it could,
+ 'no longer guarantee the safety of international staff.' 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 17)"
+key "UN2012"
+
+\end_inset
+
+After successfully re-capturing the Northern Province, and thus decisively
+ bringing the war to an end, the Sri Lankan government was emphatic that
+ the end of the civil war had been made possible despite the intensive decade
+ long international peacebuilding involvement in the region.
+ As President Rajapaksa in his now famous victory speech to the Sri Lankan
+ parliament on 19th May 2009 stated, “We do not have the time to be experimentin
+g with the solutions suggested by other countries.
+ Therefore, it is necessary that we find a solution that is our very own,
+ of our own nation (...) We expect cooperation for it from the international
+ community and not obstruction.
+ Should the international community doubt our capability to find such a
+ solution, when we have successfully overcome a challenge that that the
+ world was unable to achieve? No.
+ We can achieve this.” 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rajapaksa2014our"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This final military operation which established the Rajapaksa government’s
+ ‘Victor’s Peace,’ came at the heels of one of the most internationalised
+ peace-negotiations in the post Cold War contexts, and has been a subject
+ of much policy debate in the international community.
+ Most of these have focused on the Sri Lankan case as an example that the
+ larger international project of liberal peacebuilding, which emerged following
+ the end of the Cold War, is in crisis and that there is a need to revisit
+ this viability of this discourse.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2005aid,goodhand2009limits,holt2011aid,hoglund2013friction,stokke2011liberal,walton2012between"
+
+\end_inset
+
+ It was not only the inability of the Western governments to bring about
+ a negotiated peace, but specifically, the domestic backlash against the
+ political solutions that would lead to the liberal peace, that fed into
+ this skepticism about the efficacy of liberal peacebuilding.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2012between"
+
+\end_inset
+
+ The nature of liberal peacebuilding in Sri Lanka had been distinctly different
+ from the oft cited examples like Iraq, Afghanistan, Somalia, and Kosovo
+ that are characterised by an exercise of coercion by peacebuilders, in
+ the form of heavy military involvement.
+ Within Heathershaw’s framework, peacebuilding carried out in the Sri Lankan
+ context, with a well-functioning state and political system, was ‘emancipatory’
+ and motivated by the specific interpretation of liberal peace as ‘justice;’
+ peacebuilders had focused on circumventing the government to socially mobilise
+ a just peace, as opposed to confronting the state and instituting top-down
+ norms.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "heathershaw2008unpacking"
+
+\end_inset
+
+ This is different from the notion of peace as ‘order,’ starting with the
+ enforcement of basic security, which characterises more orthodox peacebuilding
+ as has taken place in Afghanistan and Iraq.
+ Most Western policy assessments that guided the work of peacebuilding practitio
+ners and donors during the conflict characterised the Sri Lankan conflict
+ as a state formation conflict, which has evolved beyond its trigger based
+ on minority grievances.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2005aid,uyangoda2007ethnic"
+
+\end_inset
+
+ The post-independence Sri Lankan state had retained the centralised state
+ structure of the colonial era, at the center of which was the Sinhalese-Buddhis
+t majoritarian identity.
+ The conflict was thus viewed as a continuous struggle between the Sinhalese
+ majority and the ethnic minorities for the reconstruction of the post colonial
+ Sri Lankan state.
+ Informed by this analysis, the conflict then reflected these demands for
+ restructuring, through a struggle between the three parallel state formation
+ projects of the Sinhalese, Tamils, and the Muslims.
+ The Sinhalese state formation project seeks to protect and maintain the
+ post colonial unitary state while the Tamil state formation project seeks
+ regional statehood or separate statehood.
+ The Muslim state formation claims to respond to the conflict between the
+ Sinhalese and Tamil contest for state power.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "uyangoda2011government"
+
+\end_inset
+
+ As a result, the focus of peacebuilding in Sri Lanka was to institute a
+ ‘just’ peace by transforming attitudes and sources of grievance among these
+ competing factions.
+ It was hoped that this grass-root transformation would pressure the government
+ to address these root causes by undertaking state-reforms that devolved
+ power away from the center and created more inclusive federal power sharing
+ structures.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2008conflict"
+
+\end_inset
+
+ The key focus of peacebuilding then, was to develop local capacities and
+ agency through a consensual process, effectively categorising it as a fourth-ge
+neration approach that was concerned with emancipation and social justice
+ beyond the state.
+ 
+\end_layout
+
+\begin_layout Standard
+The employment of this emancipatory gradient had emerged as a consequence
+ of circumstances, rather than conscious design.
+ The peacebuilding project in Sri Lanka had not been a consistently unanimous
+ ‘Western’ project; only a specific group of Western states had consistently
+ worked during the conflict to ‘build’ a liberal peace.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2009limits"
+
+\end_inset
+
+ Away from the realm of rhetoric, there has been a distinct divide in how
+ Western states have worked with or against the Sri Lankan government during
+ and after the conflict on the issue of building a positive peace.
+ The Department for International Development's (DFID) Strategic Conflict
+ Assessment in the year 2000 identifies that among the existing three types
+ of bilateral donors, peacebuilding work had been led by one specific group.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhandconflict"
+
+\end_inset
+
+ The first category contains donor like Japan and Korea, which provided
+ a substantial portion of aid to Sri Lanka and worked “around” conflict
+ by focusing on ‘neutral’ development issues; this often backfired and even
+ reinforced ethnic differences.
+ The second category was donors that work “in conflict.” Among these donors,
+ there was an institutional recognition that the conflict was an issue and
+ need to be taken into account to some degree in aid planning, so as to
+ minimise conflict-related risks.
+ This group typically included larger Western donors like the US, Australia
+ and Canada, who only expressly began engaging with conflict during the
+ peace-negotiations period of 2000-2005.
+ Lunstead, in his discussion on the nature of superpower engagement in Sri
+ Lanka, highlights that the immediate trigger for intensive Western superpower
+ engagement in Sri Lanka from 2001 onwards was the post 9/11 agenda which
+ advocated the simultaneous pursuit of conflict resolution, liberal democracy
+ and market sovereignty.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "lunstead2010united"
+
+\end_inset
+
+ The short-lived Sri Lankan peace-process period from 2000-2005 is thus
+ recognised as being emblematic of the growing number of experiments in
+ ‘liberal peacebuilding’, which had intensified in the post 9/11 security
+ environment.
+ For larger Western donors, this meant breaking away from the traditional
+ model of development aid, where conflict regions were perceived as the
+ domain for ‘neutral’ relief work alone, and exploring potential linkages
+ and sites of operation for development aid in conflict, towards building
+ this liberal peace.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "macrae2004beyond"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The last group, which has long self-identified itself as the 'Coalition
+ of Like-Minded,’ (CLM
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "CLM"
+description "Coalition of Like Minded donors"
+
+\end_inset
+
+) consists of bilateral donors like Norway, Sweden, Switzerland, Germany
+ and the Netherlands, who have had a longer history in their bilateral engagemen
+t with the Sri Lankan conflict, including frequent consultations and attempts
+ to negotiate with the government towards a power-sharing solutions even
+ during the early years of the conflict, and through the 1990s.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand1999sri"
+
+\end_inset
+
+ Focusing on issues of judicial reform, human rights and conflict resolution
+ this group of donors expressly developed programmes to reduce or manage
+ conflict, and promote long term reconciliation.
+ In other accounts, this group of donors have also been described as ‘ethical-pr
+incipled’ donors, on account of the fact that they lack of obvious strategic
+ interests in the country, but focus on issues of peace and development
+ based on the rationale of moral obligation and solidarity in the international
+ system.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "alesina2000gives"
+
+\end_inset
+
+ As a group, they are also recognised as being in favour of more bottom-up
+ approaches to external intervention, both on moral grounds of respecting
+ state sovereignty, and establishing an international democratic liberal
+ order.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bellamy2009west"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the post-war context, this group continued to propagate the view that
+ aid has the potential for inducing change, including state reform through
+ greater democratisation.
+ Despite the decisive end to the conflict, there were concerns about the
+ direction and the translation of this Victor’s Peace to a durable positive
+ peace; from a Galtungian perspective and located in the discourse of liberal
+ peace, the military conflict had only served to create a negative peace,
+ in terms of an absence of violence due to the elimination of the opposition,
+ the LTTE.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2011conflict"
+
+\end_inset
+
+ However, a positive peace, which is constructed as the core of the liberal
+ peacebuilding paradigm, would require an addressing of the core socio-political
+ elements, biases and divides that had caused and perpetuated the ethnic
+ conflict for decades.
+ From 2009 onwards, while some donor agencies from this group like the Swedish
+ International Development Cooperation Agency (SIDA) and the Dutch Technical
+ Corporation closed operations in Sri Lanka, these countries continued to
+ be engaged in peacebuilding processes by setting up funding mechanisms
+ for CSOs and INGOs via their embassies.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+During interviews, it was also indicated that there are a series of ‘anonymous’
+ funding mechanisms that local CSOs and NGOs can apply to.
+ As a practice, one of the example of the institutionalization of this practice
+ can be seen by the EU and its European Instrument for Democracy & Human
+ Rights (EIDHR) that was set up with the intention of supporting local groups,
+ “without the agreement of the governments of third countries.” http://ec.europa.eu
+/europeaid/how/finance/eidhr_en.htm
+\end_layout
+
+\end_inset
+
+ From 2009-2011, along with these embassies other agencies like the Norwegian
+ Agency for Development Cooperation (NORAD), Swiss Agency for Development
+ and Cooperation (SDC), and the Deutsche Gesellschaft für Internationale
+ Zusammenarbeit (GIZ) continued to provide aid that focused on five issue
+ areas: (i) human rights and accountability; (ii) reconciliation and social
+ integration; (iii) governance, democracy and the political settlement;
+ (iv) development and reconstruction; (v) conflict sensitivity.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2011conflict"
+
+\end_inset
+
+Their strategy has been perceived as one that is in opposition to the Sri
+ Lankan state, as it focuses on mobilising the masses and civil society
+ to place checks on those in power.
+ It was initially criticised by more pragmatically inclined donors as being
+ to simplistic and confrontational, as it is seen to not adequately leverage
+ the potential of back-door channels, as is preferred by the larger donors.
+\end_layout
+
+\begin_layout Standard
+There was also a question of the strategy’s efficacy: from 2006 onwards,
+ the work done by the CLM donors and peacebuilding had come to be ‘dirty
+ words,’ which faced repeated public backlash, similar to those seen in
+ contexts where more orthodox peacebuilding had been employed.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2011balance"
+
+\end_inset
+
+ The domestic civil-society had visibly turned hostile to the peacebuilders’
+ agenda, and worked to distance themselves from political solutions advocated
+ by the internationals.
+ In the aftermath of the conflict, despite the persistence of peacebuilders
+ led by this group of donors, involvement in the domestic arena and on the
+ ground seemed as problematic as ever.
+ By 2012, just as larger Western donors broke away from the pragmatic wait-and-w
+atch policy that the group adopted for the first three years after the end
+ of the war, the CLM donors were parallely ‘winding down’ peacebuilding
+ work on the ground.
+ This was marked by departure of NORAD, DFID, the Dutch Technical Cooperation
+ and the French Development Agencies by late 2011, and a closing of civil
+ society or governance issues based funding from the embassies.
+ At the time that research for this thesis was being conducted, high level
+ sources in the SDC, Norwegian Embassy and GIZ confirmed that they expected
+ to end operations by 2015, effectively reflecting an end to the emancipatory
+ peacebuilding these donors had funded for the past two decades.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interviews with Colombo based policy-makers from the SDC, GIZ, NORAD, EU
+ Representation to Sri Lanka and the Maldives, Swiss Embassy, and UNDP
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Based on this trend of withdrawal by peacebuilders, central research question
+ of this thesis seeks to address is: 
+\end_layout
+
+\begin_layout Quote
+Why after decades of local engagement towards emancipatory civil peacebuilding,
+ did the group of ‘like-minded’ donors wind-down their peacebuilding operations
+ in the post-conflict period?
+\series bold
+ 
+\end_layout
+
+\begin_layout Standard
+There is a distinct paradox in the way this group of donors have pursued
+ their goal of peace as justice against larger international developments:
+ Globally, there has been a renewed political momentum from 2011 towards
+ condemning the lack of progress made by the GoSL
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "GoSL"
+description "Government of Sri Lanka"
+
+\end_inset
+
+ in addressing war atrocities and devolving power, as is highlighted by
+ the Secretary-General’s Panel of Experts Report of 2011 and United Nations
+ Human Rights Council (UNHRC) Resolution 19/12.
+ This momentum came from larger bilateral Western donors who have tended
+ to link their aid to commercial or strategic security interests and for
+ whom it was strategically relevant that the Sri Lankan government had a
+ growing alliance with more ‘illiberal’ non-traditional donors like China,
+ Iran and Russia, which allowed it to defy Western pressures and even undercut
+ commercial Western interests.
+ In contrast, CLM donors have either withdrawn to the sidelines or have
+ focused on ‘normalising’ relations with the government, effectively signaling
+ that the peacebuilding baton would be dropped.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "stokke2011liberal"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In order to unpack this research problem, two sets of research questions
+ were relevant: 
+\end_layout
+
+\begin_layout Enumerate
+Why were the peacebuilders in Sri Lanka unsuccessful: what were the fundamental
+ internal inconsistencies in the peacebuilding project that led to its unprepare
+dness for the Sri Lankan context? 
+\end_layout
+
+\begin_layout Enumerate
+Second, what were the specific domestic conditions, processes and actors
+ that directly and adverse impacted the peacebuilding project? Theoretically,
+ what does this response to peacebuilding bring into focus about the liberal
+ peacebuilding project? 
+\end_layout
+
+\begin_layout Standard
+The central argument of this thesis is as follows – In post-conflict Sri
+ Lanka, the group of like-minded donors was forced to increasingly scale
+ down civil peacebuilding due to the setting of conditionalities on their
+ work by local actors, which led to a shrinking of humanitarian and policy
+ space in which the peacebuilders could operate.
+ An examination of two-way conditionality in bottom-up peacebuilding is
+ juxtaposed against a critical theory exploration of peacebuilding which
+ questions the ‘linearity,’ and normative framework of the civil peacebuilding
+ discourse.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2011critical"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "chandler2013peacebuilding"
+
+\end_inset
+
+ Based on this, the thesis highlights that local actors are adept at manipulatin
+g conditionalities in their favour, thus providing evidence to support the
+ findings of an emerging critical literature on liberal peacebuilding interventi
+ons, which has placed emphasis on the role of domestic political actors
+ in mediating the peacebuilding outcomes and dynamics of peacebuilding intervent
+ions.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2009limits,goodhand2010stabilising,frerks2006conditioning,stokke2011liberal"
+
+\end_inset
+
+It employs relatively recent analytical lens developed by Björkdahl and
+ Höglund, that uses the concept of ‘friction’ to identify points when an
+ external discourse is mediated by and between local actors.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bjorkdahl2013precarious"
+
+\end_inset
+
+ The direction this friction will take - for, against, or partially accommodatin
+g of the global discourse - is dependent on vertical power relations between
+ peacebuilders and local populations, and also horizontal power relations
+ between different local actors.
+ Björkdahl and Höglund also provide a template of how different types of
+ response to the friction can be categorised.
+ Based on this framework, this thesis conducts a long-term analysis of how
+ through a feed-back loop process, local rejection set stage for the option
+ of a military victory, which in turn set stage for the government’s co-option
+ of the liberal peacebuilding process in the post-conflict era.
+\end_layout
+
+\begin_layout Standard
+This thesis thus discusses two types of frictions and resultant conditionalities
+ that emerged at different points but operated simultaneously in the post-confli
+ct context : a long existing local rejection, coupled with the government’s
+ ability to impose structural limitations.
+ The first conditionality is discussed as first having emerged from the
+ vertical ‘friction’ between the global liberal peace project and the local
+ populations during the peace negotiations era from 2000-2005.
+ Contrary to accounts which focus on the public's rejection of the Norway
+ mediated peace-negotiations in Sri Lanka as a phenomenon of “ethno-nationalist
+ hysteria,” this thesis highlights that the local resistance emerged primarily
+ due to a friction between local and external visions of what a stable peace
+ entailed : For peacebuilders it was located in a federal solution, which
+ was supported by the domestic elite in power.
+ For the local majority, it meant preventing the potential splitting of
+ the state.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+ This local rejection of the Western peacebuilders support for a federal
+ state that operated within the ethno-nationalistic framework in order to
+ appeal to the masses, is analysed as a consequence of the peacebuilders
+ unwillingness to engage with “non-liked minded” factions of the civil society.
+ The local rejection inculcated a culture of self-censorship among potential
+ local collaborators during the conflict period, thus creating effective
+ limits or conditions on who the Coalition of Like-Minded donors can collaborate
+ with.
+ It also played a key role in bringing to power a government that was able
+ to pursue a war for peace agenda, despite Western resistance to the project
+\end_layout
+
+\begin_layout Standard
+Second, the end of the conflict in a military defeat drastically altered
+ the domestic political dynamics in Sri Lanka.
+ The Rajapaksa regime drew legitimacy from this Victor's Peace, and no longer
+ required the support of local marginal political groups which had brought
+ it to power.
+ Demands from these groups were now seen as ‘limiting’ to the government’s
+ progress and pragmatism because of a horizontal friction between the national
+ elite and local groups with regards to the potential Western involvement
+ in the post-conflict processes in the country: While the local groups agitated
+ for a complete rejection, the government was bound by pragmatic concerns
+ and needed to seem more accommodating and respectful of international concerns.
+ The resultant response to this friction is the Rajapaksa regime’s focus
+ on consolidating its position as the primary space for domestic agenda
+ settings.
+ Within the governments agenda, it is not against all Western donors, but
+ only against the ethical-principled group, that constantly agitates and
+ demands for the pursuance of peace as justice.
+ Thus the government too has developed a state framework that imposes conditions
+ on donors in order to focus their resources on areas that it prioritises,
+ while effectively ‘squeezing out’ those that it wants to make irrelevant.
+ This reflects a ‘co-option’ response wherein the government has selectively
+ appropriated certain aspects of the peacebuilding discourse.
+ However for the ethical-principled donors, faced with both local rejection
+ and government conditionality, which at points have been complimentary,
+ there was effectively no space for operation.
+ 
+\end_layout
+
+\begin_layout Standard
+This thesis draws from and builds upon the strand of case-specific practitioner-
+oriented research that has focused on Sri Lanka in order to highlight the
+ complexity of contexts that peacebuilding is employed in.
+ experience.
+ Past research on Sri Lanka has dominantly focused on the unraveling of
+ the peace process by 2005, peacebuilding during the tsunami response, and
+ factors that led to the termination of the Cease Fire Agreement (CFA),
+ and has drawn similar conclusions: in Sri Lanka, the liberal peace project
+ has always been mediated by domestic actors that are in the dominant position
+ of being able to translate or manipulate the project towards self-serving
+ interests, which in the past has led to ‘ decidedly illiberal outcomes.’
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2009limits"
+
+\end_inset
+
+ The recognition of the primacy of domestic actors and processes brings
+ into question certain foundational assumptions the discourse makes about
+ itself, as being a process where international actors have greater agency
+ and ability to transform underlying conflict structures.
+ Richmond in his disaggregation of the liberal peace highlights that the
+ notion that an external neutral third party has the ability to ‘bring’
+ peace in a conflict environment is common to all versions of the liberal
+ peace thesis.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2006problemof"
+
+\end_inset
+
+ Building on this tradition, this thesis attempts to span a longer period
+ of time, starting from the period after the unraveling of the peace-process
+ in 2003, in order to present a more comprehensive reading of how this exercise
+ of local agency has transformed, changed hands, and in turn impacted the
+ potential role for peacebuilders in post conflict Sri Lanka.
+ 
+\end_layout
+
+\begin_layout Standard
+The argument is structured as follows: Chapter 1 which follows this introduction
+, locates the research question within a larger academic study of peacebuilding.
+ It locates the Sri Lankan experience of peacebuilding and local resistance
+ within the Richmond and Heathershaw’s typology of peacebuildings; their
+ critique of the linearity of the peacebuilding discourse is one of the
+ primary conceptual tools used to frame the idea of local agency in setting
+ conditions on international peacebuilding.
+ Drawing from this theoretical exploration, the chapter then details the
+ methodology and design of the research which uses the Björkdahl and Höglund
+ conceptual framework on frictions in local-global encounters for analysing
+ the Sri Lankan case.
+ The modalities of collecting data for this analysis through field research
+ are also presented, including a discussion of the dilemmas encountered
+ in conducting fieldwork in a “dangerous” setting.
+ Chapter 2 discusses the first form of friction that is vertical in nature,
+ emerging between the peacebuilders and the local Sri Lankan population,
+ and the rejection response that emerges as an outcome.
+ The emergence and evolution of the local rejection is analysed; this includes
+ a focus on ideologically disparate groups which in common shared their
+ resistance against Western intervention, and the process by which this
+ effectively limited the ability of peacebuilders to build a liberal peace
+ through the civil society.
+ Chapter 3 looks at the post-conflict environment and the second type of
+ horizontal friction between local and national elite which has impacted
+ the pre-existing vertical friction with peacebuilders.
+ The outcome of the horizontal friction has been the emergence of a state
+ framework to moderate any external peacebuilding, which is discussed as
+ a post-conflict local conditionality.
+ This is examined through a case study of the JPA and the role of the Presidenti
+al Task force.
+ Between this and the local resistance, peacebuilding done by the CLM donors
+ has thus become ineffective and impractical to the point that, by consensus,
+ peacebuilders have opted to ‘abandon the sinking ship.’
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Quote from interview with SDC
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_body
+\end_document

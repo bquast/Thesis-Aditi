@@ -76,7 +76,7 @@ biblatex
 \shortcut idx
 \color #008000
 \end_index
-\secnumdepth 1
+\secnumdepth 2
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default

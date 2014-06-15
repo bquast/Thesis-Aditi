@@ -1,0 +1,2530 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 476
+\begin_document
+\begin_header
+\textclass report
+\begin_preamble
+\usepackage[style=verbose,natbib=true,backend=biber]{biblatex}
+\usepackage{hyperref}
+\usepackage{tocbibind}
+
+\addbibresource{~/Thesis-Aditi/thesis.bib}
+
+\def\nompreamble{\addcontentsline{toc}{chapter}{\nomname}\markboth{\nomname}{\nomname}}
+
+\let\citet\footcite
+\end_preamble
+\use_default_options true
+\begin_modules
+biblatex
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_author "Aditi Srinivasan"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Local conditions on the universal peace
+\end_layout
+
+\begin_layout Standard
+The following case analysis of Sri Lanka is a long-term analysis based on
+ above discussed body of literature.
+ It seeks to highlight how the principled donors, despite having operationalised
+ the emancipatory gradient which privileges achievement of justice through
+ local actors, failed on account of their unwillingness to engage with,
+ what from their perspective were, “uncivil” sections of the Sri Lankan
+ civil society.
+ In the conflict era, the source of friction is located in the competing
+ visions of what a stable negotiated peace in Sri Lanka would entail : The
+ peacebuilders and local collaborators actively advocated for a federal
+ solution and devolution of power to the Tamil dominated Province.
+ However, for certain local factions, this represented a Balkanisation of
+ the Sri Lankan state and an undermining of, what they constructed as, the
+ fundamental Sinhalese Buddhist nature of Sri Lanka.
+ This ‘local’ sentiment that strictly advocated for the maintenance of a
+ unitary state found traction among the masses, due to its ethno-nationalist
+ overtones.
+ Following the failure of the peace negotiations, the outcome of this friction
+ was a rejection response by these local groups, due to the peacebuilders
+ continued unwillingness to have a dialogue with what they saw as ‘spoilers.’
+ The local rejection took form of a mass attack against local organisations
+ that worked with peacebuilders, which were represented as “traitors,” “LTTE-sym
+pathisers” and “unpatriotic.” It marks the first set of de-facto conditionalities
+ by local actors that reduced the space for peacebuilding and carried on
+ into the post-conflict era, by effectively limiting the willingness of
+ local actors to collaborate with the international community To illustrate
+ the process by which this rejection response was successful, this section
+ focuses on the unlikely alliance between the Janatha Vimukthi Peramuna
+ (JVP), a marginal communist group that had existed since 1965, and JHU,
+ a faction that represents the interests of the radical Buddhist clergy.
+ The alliance highlights how disparate groups with fundamentally different
+ ideologies united with the common goal of repelling Western peacebuilders.
+ Following the end of the peace-negotiations, both these marginal parties
+ have became dominant political groups and have since redefined the post-conflic
+t space in Sri Lanka.
+\end_layout
+
+\begin_layout Standard
+This chapter begins with an exploration of Western peacebuilding work and
+ its historical trajectory in order to justify its focus on the ethical-principl
+ed donors alone.
+ It then explores the nature of the Sri Lankan political landscape, briefly
+ discussing the ethno-nationalist Sinhalese-Buddhist axis that politics
+ in Sri Lanka has historically coalesced around.
+ Finally, this chapter explores the failure of peacebuilding in the conflict
+ era, on account of its limited and tenuous engagement with an elite civil
+ society, which played a role in the local rejection response to the friction
+ on what peace would mean for the structuring of the Sri Lankan state.
+\end_layout
+
+\begin_layout Section
+ Aid, Conflict, and Peacebuilding in Sri Lanka
+\end_layout
+
+\begin_layout Standard
+Historically following the outbreak of the conflict in 1983, except for
+ India which has a historic ethnic association with the Tamils, no other
+ country made an attempt at a high level intervention in the form of peace-makin
+g efforts in the Sri Lankan context.
+ Goodhand argues that lack of this form of Western engagement in the region
+ till 2000 can be attributed to two reasons - first, the conflict was seen
+ as an internal ethnic issue and both warring factions within the country
+ had been against any sort of external engagement in the matter, viewing
+ it as a transgression of national sovereignty.
+ Second, during the Cold War and after, most Western states regarded India
+ as the natural region hegemon, and countries like the US particularly,
+ did not see any geo-strategic value in intervening in the region.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2009limits"
+
+\end_inset
+
+ Despite this, it would be reductive to categorise the Sri Lankan conflict
+ as an ‘introverted’ ethnic conflict; most academics have argued that what
+ appears to be ‘internal’ is actually the result of successive complex political
+, economic and cultural engagements with the outside world.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bastian1999failure"
+
+\end_inset
+
+ Several scholars have reasoned that particularly in the last decade of
+ the conflict, the domestic dynamics in terms of government - LTTE relations
+ continued to be more or less at an impasse, and it was the nature and limitatio
+ns of the international intervention that influenced the course and eventual
+ end of the civil war.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "venugopal2003global,uyangoda2011government"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Debates on peacebuilding that focus on the Sri Lankan experience, have implied
+ a level of homogeneity among international actors that has not existed
+ in practice, by focusing on ‘Western experience’ of peacebuilding during
+ the brief period of alignment that emerged between donors in Sri Lanka
+ from 2000-2005.
+ Contrary to the general tendency of subsuming all Western aid behaviour
+ as a singular collective, there has historically been a distinct difference
+ in the way the P-3 – USA, UK and France, with Australia, and smaller European
+ donors like Norway, Sweden, Switzerland, Netherlands and Germany, have
+ worked on peacebuilding and engagement with conflict, both globally and
+ in Sri Lanka.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2005aid"
+
+\end_inset
+
+ Bellamy and Williams describe this as a difference in approach between
+ the ‘great powers,’ i.e the P3 of US, UK and France, who have traditionally
+ been more strategic in their interventions, and the ‘internationalist’
+ middle powers, like the Scandinavian states, Netherlands and Germany, who
+ were motivated by the principles of liberal peace.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bellamy2009west"
+
+\end_inset
+
+ Till 2001, among the Western superpowers only the UK engaged with Sri Lanka
+ to a limited degree on conflict related issues, on account of the country’s
+ status as a former colony; the other superpowers considered this a ‘domestic
+ issue’ that was the immediate international responsibility of India, which
+ was widely considered the regional hegemon.
+ Major Western bilateral donors like the US and Australia, preferred to
+ focus on issue of trade and technical cooperation, treating the conflict
+ as a ‘negative externality’ that at best had to be factored in while designing
+ programmes.
+ 
+\end_layout
+
+\begin_layout Standard
+This distinction between bilateral donors that view aid as a foreign policy
+ tool and allocate it based on political and strategic considerations, as
+ opposed to donors that have a more ‘principled’ allocation of aid based
+ on more ‘correct’ considerations has long been discussed in literature
+ focused on political economy of the global aid system.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "alesina2000gives"
+
+\end_inset
+
+ With regards to the former group of ‘political-strategic’ donors, consideration
+s like geo-political interests, colonial history and economic interests
+ are among the prime determinants of aid allocation; concerns regarding
+ democratisation and good governance are recognised as being secondary to
+ geo-political concerns.
+ Among Western donors, most account have defined this group as consisting
+ of former imperialist nations, like the UK, France, Portugal and Spain,
+ as well as dominant powers like the US.
+ The second group of donors are motivated by what Lumsdaine describes as
+ a ‘moral’ vision, which is based on their self-perception as enablers of
+ a liberal system in the global order.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "lumsdainemoral"
+
+\end_inset
+
+ While the Scandinavian countries are looked at as the most typical example,
+ Germany, Netherlands and Canada are also often discussed as belonging to
+ this group; however this is based on their aggregated behaviours across
+ contexts.
+ This thesis, in focusing on the bilateral peacebuilding by the ethical-principl
+ed donors in post-conflict Sri Lanka, refers to the work done by Switzerland,
+ Norway, Sweden,and Germany, and aid from Denmark, Finland, and Iceland.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Some accounts discuss Australia and Canada as being ethical-principled donors.
+ While this may have been true during the Cold War Era, in the last decade,
+ the aid practices and donor agency direction has largerly reflected more
+ political strategic donor like behaviour; in the view of this researcher,
+ the merger of the Canadian International Development Agency into the Canadian
+ Department of Foreign Affairs and AusAid with the Australian Department
+ of Foreign Affairs in the last three years, effectively signals an end
+ to their potential status as 'ethical-principled’ donors.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+http://www.theguardian.com/global-development/2014/may/08/australia-canada-aid-mer
+ger-poor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It is recognised that following the collapse of the peace-negotiations,
+ the political-strategic Western donors returned to their ‘pre-internationalisat
+ion risk-averse behaviour,’ marking the re-emergence of the three-fold distincti
+on of donors that worked ‘around conflict’, ‘on conflict’ and ‘in conflict.’
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2005aid"
+
+\end_inset
+
+ As Goodhand highlights, the aid landscape in Sri Lanka during and after
+ the conflict was interesting in that those who has the least financial
+ and global political influence, i.e the like-minded donors, prioritised
+ peacebuilding the longest.
+ However, the lack of resources is in noway indicative of the influence
+ these donors have had on policy and agenda setting.
+ Donors like Norway, Sweden and the Netherlands have had a long historical
+ ties with Sri Lanka, as a result of which, their political influence in
+ Sri Lanka has been disproportionate to their funding.
+ Moreover, these donors have played an important norm setting role in influencin
+g the behaviours and priorities of more financially significant donors by
+ repeatedly bringing up peacebuilding concerns in collective donor forums.
+ 
+\end_layout
+
+\begin_layout Standard
+In this respect, the peace window from 2000-2005 is widely regarded as the
+ high point of aligned international interest and intervention in the Sri
+ Lankan conflict.
+ It must be stressed that collective Western intervention occurred as a
+ result of a domestic shift and demand, rather than being imposed by donors,
+ thus highlighting the primacy of domestic agents in the eventual process.
+ The key domestic changes that allowed for this window, was the election
+ of the West leaning United National Front (UNP
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "UNP"
+description "United National Front coalition, led by Ranil Wickremasinghe"
+
+\end_inset
+
+) coalition, led by Ranil Wickremasinghe in December 2001.
+ The previous government had already initiated the process of talks with
+ the LTTE and requested Norwegian mediation in early 2000, however, it was
+ really under Wickremasinghe that the internationalisation of the conflict
+ developed to its mammoth proportions.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 9)"
+key "goodhand2011conflict"
+
+\end_inset
+
+ The UNP administration sought to link peace-talks with the LTTE to the
+ economic development of the country as a whole, with specific focus on
+ the conflict affected regions of the North and East, in line with international
+ expectations.
+\end_layout
+
+\begin_layout Standard
+As Bastian highlights, the UNF’s intended strategy was designed in line
+ with the ‘liberal peace’ discourse, and thus forwarded the idea that conducting
+ peace-talks against the implementation of free-market economic reforms
+ and liberal ‘good’ governance would leading to a durable peace.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 134)"
+key "bastian2011politics"
+
+\end_inset
+
+ This thus effectively linked security with the development agenda, echoing
+ the sentiments of Western superpowers like the US and UK which had only
+ recently announced their global agenda against terrorism, which placed
+ emphasis on the same nexus.
+ This meant that the success of the Sri Lankan peace negotiations had high
+ stakes not only domestically, but internationally.
+ Lunstead, in his discussion on the nature of superpower engagement in Sri
+ Lanka, highlights that the immediate trigger for intensive Western superpower
+ engagement in Sri Lanka from 2001 onwards was the post 9/11 agenda.
+ Under the then Deputy-Secretary of State, Richard Armitage, it was felt
+ that any Western success in resolving the Sri Lankan conflict through mediated
+ negotiations would make the country a poster-child for new US-sponsored
+ global agenda for promoting democracy and interventionism.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "lunstead2010united"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The acceptance of Norway as a neutral third mediator by both warring parties
+ in 2001 and the signing of a permanent Ceasefire Agreement in 2002 saw
+ the emergence of the short-lived ‘New Aid Agenda’ which represented a clear
+ vision and agreement between all donors that aid was to be leveraged towards
+ influencing the Track 1 and Track 2 efforts .
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 71)"
+key "goodhand2005aid"
+
+\end_inset
+
+ The 2003 Tokyo Donor’s Conference which saw aid pledges of up to 4.4 billion
+ towards the reconstruction of the North and East, also saw a unanimous
+ agreement towards operationsalising peace conditionalities, wherein it
+ was stated that should the disbursement of the pledged aid would be conditional
+ on the continuation of the peace process.
+ Thus, while the Oslo Declaration which saw the LTTE and GoSL agree to a
+ federal solution, was the high point of the peace negotiations, the Tokyo
+ Conference represented a high-point of donor alignment on the Sri Lankan
+ issue.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 65- pp.67)"
+key "goodhand2005aid"
+
+\end_inset
+
+ Given the focus on peace-making during this period, most donor funded civil
+ society activities focused on building a peace-consensus amongst local
+ formal institutions and key political elite.
+ What is significant is that while donors expected the civil society to
+ all establish a popular mandate for the peace process, this mostly failed
+ due to the selection of mostly urban civil society organisations that focused
+ on either ethnic group, without addressing the rural base.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 154 - pp.155)"
+key "orjuela2004civil"
+
+\end_inset
+
+ The few examples of successful popular mobilization for peace did not involve
+ much donor support and stemmed from alternative interest groups opposed
+ to the war, like the Association of Disabled Ex-Service Personnel, the
+ Association for War‐Affected Women and the Parents of Servicemen Missing
+ in Action 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "orjuela2004civil"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Just as the increase in intervention came as a result of domestic demand,
+ the tapering of peace-negotiations and Western mediation was also the result
+ of a change in domestic circumstances.
+ From 2003 onwards, there was a distinct shift in the domestic perception
+ of Western peace-making efforts.
+ By early 2003, the LTTE had already jeopardised the possibility of a negotiated
+ settlement to the conflict by announcing its intent to suspend the peace
+ process on the grounds that donors had come to play favourites and had
+ not treated the separatist organisation at par with the Sri Lankan government.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "balasingham2003communication"
+
+\end_inset
+
+ On the other hand, there were differences within the Sri Lankan government
+ regarding what an acceptable negotiated settlement to conflict should look
+ like - while West-leaning Prime Minister Wickremsinghe strongly advocated
+ the Western vision of a federal solution, Sri Lankan President Kumaratunga,
+ under pressure from nationalist Sinhala allies continued to stress on a
+ unitary state.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Following a break down of government, a fresh set of elections in April
+ 2004 saw the coming to power of the United People’s Freedom Alliance (UPFA),
+ led by Mahinda Rajapaksa.
+ The Alliance, which was primarily a coalition of nationalist parties that
+ were against a divided state, had fought the elections in opposition to
+ Wickremsinghe and his pro-West policy.
+ Rajapaksa came to power through a political rhetoric that re-framed the
+ ethnic conflict as a ‘ war against terror’, defending the constitutional
+ status quo of the unitary state.
+ Prima facie, it can be argued that these dynamics that led to a shift in
+ domestic strategy away from Western peacebuilding was the consequence of
+ elite instrumentalisation of local sentiments; that the rhetoric of Sinhala
+ nationalism was the key cause for a change in government, has also been
+ represented as a form of “ethnic outbidding” among the mainstream elite.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "devotta2004blowback"
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+However, against a historical exploration of Sri Lanka’s political landscape
+ since the time of independence, it can be seen that elite belonging to
+ both these two dominant mainstream political parties - Sri Lanka Freedom
+ Party (SLFP
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "SLFP"
+description "Sri Lanka Freedom Party, led by Rajapaksa"
+
+\end_inset
+
+), which opposed to Western intervention and the United National Party (UNP),
+ whose leadership propagated the western liberal peace- have historically
+ legitimized their rule with reference to themselves as heirs to the tradition
+ of Buddhist kingship.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2011deeper"
+
+\end_inset
+
+ A key feature of the political culture of modern Sri Lanka has been the
+ agreement among national elites of the superiority of Sinhalese Buddhist
+ claims to the island, with the core ideological difference being on how
+ this can be achieved.
+ In turns, political leaders from the SLP and UNP have remained committed
+ to the consolidation of the Sri Lankan post-colonial state, only differing
+ on the issue of the role that liberalisation and Westernisation must play
+ in this process.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+ This is a function of the country’s demographic composition - at the time
+ of independence in 1948, the Sinhalese were the largest ethnic group at
+ 74%, the Tamils composed 17%, while the Moors and Malays formed the remaining
+ 9% of the country's population.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "sabaratnam1987boundaries"
+
+\end_inset
+
+ During the course of the conflict, there has been a demographic change
+ towards an increase in the proportion of the Sinahla’s to almost 80% of
+ the island’s population.
+ While it would be reductive to imply that the entire Sinhala population
+ has reacted to this ethno-nationalistic rhetoric in the same fashion, the
+ country’s primarily agrarian population has tended to vote in preference
+ of its Sinhala identity.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+ As several actors during the peace negotiations period pointed out, Wickremsing
+he’s strategy of Western involvement was greatly determined by his need
+ to create an “international safety net” against the possible return to
+ conflict with the LTTE.
+ 
+\end_layout
+
+\begin_layout Standard
+What this has meant is, “Sri Lanka’s mainstream political actors have taken
+ refuge in the affective, emotive but diffuse rhetoric of Sinhala nationalism,
+ to the extent that nationalism has become a sine qua non of political survival
+ articulated by all the mainstream.”
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.86)"
+key "rampton2010would"
+
+\end_inset
+
+ At different points in history, elite from both these national parties
+ along with other mainstream radical Sinhala dominated-political outfits,
+ have mobilised the nationalistic rhetoric to “externalise” threats; till
+ the 1980s, past targets had included foreign capital, MNCs, Indian intervention
+ and IFIs.
+ Interestingly, the first attempts towards a negotiated settlement were
+ first initiated by the SLFP, led by Kumaratuga in the 1990s, Wickremeginhe
+ and the UNP had only built upon this, rather than be the party that introduced
+ the notion of a peaceful negotiated solution.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rotberg1999sri"
+
+\end_inset
+
+ This tendency had led several political spectators to argue that at least
+ on the surface, it appeared that the mainstream Sri Lankan elites had dropped
+ the rhetoric of an explicit Sinhala nationalist solution, and had come
+ to adopt a more moderate stand.
+ For almost a decade nationalist discourses lost prominence among the mainstream
+ parties and had been kept alive only by smaller, more radical groups, that
+ were not necessarily a part of formal political processes.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 99)"
+key "rampton2010would"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In light of this, when exploring the re-emergence of Sinhala nationalism
+ against the liberal peace project, it can be argued that while mainstream
+ parties had begun to shift away from the ethno-national rhetoric, these
+ dynamics continued to operate and emerged at the street level.
+ During the initial phase of talks and the Ceasefire Agreement it is recognised
+ that large parts of wider public opinion were divided between being optimistic
+ or cautious about the process.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 37)"
+key "goodhand2011pawns"
+
+\end_inset
+
+ In critiques of the peace-process, it is recognised that the lack of Track
+ 3 initiatives towards building an effective ground level consensus among
+ “un-likeminded” local actors was one of the biggest fallacies on part of
+ the peacebuilders.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2011pawns,walton2011balance"
+
+\end_inset
+
+ In the aftermath of the suspension of talks in April 2003, small nationalist-Ma
+rxist and explicitly anti -Tamil groups like Janathi Vimukti Peramuna (JVP)
+ leveraged this failure, to establish mass dissent among the majority Sinhala
+ populace.
+ While basing this mobilisation on the mass critique of the Western exercise
+ and the associated Sri Lankan elite, these small local groups who had almost
+ no formal institutional representation prior to this period, managed to
+ widen their support base.
+ Rampton highlights that in Sri Lanka, while elites have beem at the vanguard
+ of nationalist mobilisation in the past, the aftermath of the peace-negotiation
+s indicated that the populist effect of this nationalism had emerged and
+ evolved beyond its elite genesis.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 247)"
+key "rampton2011deeper"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Thus the election victory, which is perceived as a successful nationalist
+ mobilisation by Rajapaksa and the SLFP, in truth only signified Rajapaksa’s
+ foresight in aligning himself to this local dissent and thus appropriating
+ a nationalist mantel that had wide local legitimacy.
+ The election alliance was also reliant on concessions to the nationalist
+ grouping, who in turn were committed to reducing the influence of international
+ actors and liberal NGOs in Sri Lanka.
+ Therefore as opposed to being an elite formulated resistance to liberal
+ peacebuilding, the coming into power of the Rajapaksa government can be
+ considered as symbolic of a successful “local resistance” to the project.
+ 
+\end_layout
+
+\begin_layout Section
+The ‘Sinhalisation’ of local rejection
+\end_layout
+
+\begin_layout Standard
+Following the collapse of peace-negotiations, major Western donors are recognise
+d as having returned to their pre-negotiations behaviour of being ‘political-str
+ategic’ donors- while multilateral donors returned to working ‘around’ conflict,
+ the US, UK and France, took to putting pressure on the new Rajpaksa government
+ through diplomatic channels and international forums like the UN and the
+ IMF, while minimally engaging with the conflict on the ground.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 70)"
+key "goodhand2005aid"
+
+\end_inset
+
+ In contrast, the ‘like-minded’ group of donors, shifted their peacebuilding
+ focus back to targeting political change by facilitating domestic demand
+ for governance reform through pressure from non-governmental actors ie
+ local civil society organisations.
+ From 2005 onwards, fifty percent to seventy per cent of aid to Sri Lanka
+ from this group of donors, has bypassed the Sri Lankan government and has
+ been delivered through non-governmental entities.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 13)"
+key "dietrich2013bypass"
+
+\end_inset
+
+ During the peace negotiations period, these donors had worked in line with
+ the New-Aid agenda and had perceptibly adopted a less reformatory stand
+ when compared to the work on judicial reform and human rights that these
+ donors had focused on in the 1990s.
+ As a part of donor alignment strategy, with the focus on Track 1 and Track
+ 2 initiative, CSOs were only mobilised as a technical service delivery
+ mechanism during this period.
+ Particularly following the 2004 tsunami, while the Ceasefire Agreement
+ was still formally in place, CLM donors had come to look to CSOa as a neutral
+ humanitarian aid delivery system, even an alternative service delivery
+ system to the government and the LTTE, and did not have any explicit peace
+ or conflict related objectives.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2008conflict"
+
+\end_inset
+
+ However, following the failure of the peace-process in 2005, CLM donors
+ began a renewed push for foreign funded CSOs to take up ‘peace-initiatives’
+ and influence the domestic political discourse which had increasingly come
+ to adopt the newly elected Rajapaksa government’s framing of the ethnic-conflic
+t as a ‘terrorism’ issue.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2011balance"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+According to Walton, in terms of a definition, CLM donors in Sri Lanka identifie
+d civil society actors based on a normative view of civil society as being
+ the realm that is capable of building trust and cooperation, promoting
+ and protecting rights and democracy by restraining an unruly state.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2011balance"
+
+\end_inset
+
+ Walton highlights that this focus on the democratisation potential of the
+ civil society alone, which continued in the post-war context, was inimical
+ to the overall peacebuilding goal for two reasons - first, it caused CLM
+ donors to overlook ‘unlike-minded’ organisations, which had immense mobilisatio
+n potential and hold in society but were not necessarily committed to the
+ Western model of democratisation and peace.
+ Second, this conceptualisation of civil society is based on a rigid binary
+ between the state and civil society, overlooking the fluid relationship
+ between the two spheres; in Sri Lanka, the state has often appropriated
+ initiatives of liberal‐minded civil society by mimicking their discourses
+ or by establishing formal mechanisms for collaboration.
+ As an indication of this, two of the largest and most active NGOs during
+ the conflict and post-conflict period - Seva lanka and the Consortium of
+ Humanitarian Agencies - have seen active participation by members of the
+ Rajapaksa family on their boards.
+ This fluidity draws from the nature of Sri Lankan politics, which is highly
+ centralized and clientistic.
+ This meant that the most effective CSOs were those that were directly supported
+ by the government or political parties.
+\end_layout
+
+\begin_layout Standard
+As has been discussed earlier, Rajapaksa’s coming to power on an ethno-nationali
+stic rhetoric cannot be considered an example of elite instrumentalisation.
+ The existence of local non-mainstream platforms against the peace-process
+ and Western intervention emerged from early 2001 onwards particularly against
+ the People’s Alliance-led Devolution Bill of 2000
+\begin_inset CommandInset citation
+LatexCommand citet
+key "frerks2005tsunami"
+
+\end_inset
+
+; the most successful resistance was led by the JVP, which at its core,
+ was a Leninist-marxist outfit that was primarily concerned with equitable
+ social redistribution by a centralised state.
+ JVP had emerged in 1965 as an off-shoot of the Maoist section of the Ceylon
+ Communist Party.
+ It principal constituency was based on subaltern, vernacular-educated youth
+ in universities and the rural regions, against the marginalisation of vernacula
+r “sons of the soil” by a post-colonial state that had been dominated by
+ anglicised elite.
+ Given that post-colonial Sri Lankan political culture had been characterised
+ by the articulation of diverse demands from different political factions
+ around an axis of nationalist authenticity, both elite and subaltern actors
+ competed for the position as the true guardians of the nation and national
+ interests.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2011deeper"
+
+\end_inset
+
+ Shaped by this, the JVP too has reproduced and operationalised the ideological
+ facets of Sinhalese nationalism in order to legitimize its larger goals.
+ 12 
+\end_layout
+
+\begin_layout Standard
+Western liberal peacebuilders, through the Oslo Declaration of 2002 had
+ indicated their vision that the a successful peace would mean a federal
+ solution and a negotiated end to the conflict through a power sharing arrangeme
+nt with the LTTE.
+ Both mainstream national parties in Sri Lanka had also expressed commitment
+ to this federal solution.
+ This can be seen as the primary source of friction, when compared to the
+ JVP and its collaborators view that this solution posed to Sri Lanka’s
+ unitary state framework, territorial integrity and sovereignty.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+ In light of the lack of discourse between the peacebuilders and these groups,
+ the JVP thus took to ‘informal’ channels of opposition and mobilisation,
+ using proxy CSOs like the Socialist Students Union and the Inter-University
+ Students Federation (IUSF) to recruit youth cadres and forge an alliance
+ among ‘alternative’ organisations were reflective of Buddhist religious
+ nationalists causes.
+ While most of these religious organisation were in the far-right of the
+ ideological spectrum, they too rejected the notion of a negotiated settlement
+ or a federal state structure.
+ This is best represented by the JVP’s unlikely alliance with the JHU, an
+ organisation that was formed by radical Buddhist clergy and had its base
+ in urban and sub-urban aspiring vernacular elite.
+ Unlike the JVP which had a more moderate stand in terms of the role of
+ the ethnic minority and the need for secular ideals under a unitary state,
+ the JHU has traditionally been blatant in its demands that the Sri Lankan
+ state be a Buddhist majoritarian state, with express religious functions.
+ Prior to its alliance with the JVP, the JHU’s primary line of attack was
+ against the hegemonic “Christianisation” by Western intervention, as well
+ local collaborators, who sought to undermine the agency and Buddhist identity
+ of the Sri Lankan polity to determine its own national interests.
+ Thus, by 2003, the sites of convergence for these two marginal groups was
+ the understanding that Western intervention was hegemonic and threatened
+ a unitary and territorially sovereign Sri Lankan state, under the ostensible
+ threat by an illegitimate terrorist actor, the LTTE.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2011deeper"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+During the negotiations period, the general public opinion was either hopeful
+ or ambivalent ; however, over time, as the focus on building consensus
+ for a negotiated peace continued to be limited to higher and formal levels
+ of political power, there was a marked degree of confusion and skepticism
+ about what the project meant for the people.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2011pawns"
+
+\end_inset
+
+ In context of this disassociation between the peace process and the technicalis
+ation of civil society work by donors, the mass mobilisation by the JVP-JHU
+ combine which undertook a comprehensive critique of global governance,
+ the liberal peace and the mainstream elite, found many takers.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "frerks2005tsunami,rampton2010would"
+
+\end_inset
+
+ Significantly, several scholars have argued that instead of labeling this
+ movement and local dynamic as symptomatic of ‘nationalist hysteria,’ it
+ should be understood as an extreme position in a larger ongoing debate
+ about the transparency, political aims and expansionism of transnational
+ authorities and the struggle against a homogenous ‘global government.” It
+ called into question the true agency, allegiance, and representation of
+ the local “civil” society actors that ally with the donors, and in extension,
+ their legitimacy to pursue a certain political solution on behalf of the
+ larger society.
+ The targets of this alliance at different points have included that World
+ bank, UN representative and INGOs.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Significantly, this vertical friction between peacebuilders and the local
+ populations led to a reshaping of national level power dynamics.
+ The Rajapaksa government’s coming into power in 2004 has been a function
+ of its establishment of a successful direct electoral alliance with the
+ JVP, and in extension, the JHU.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2005aid"
+
+\end_inset
+
+ The parliamentary elections of 2004 mark this turning point with the defeat
+ of the ruling United National Party led by Prime Minister Ranil Wickremesinghe
+ was defeated, by the United People's Freedom Alliance, which initially
+ consisted of Rajapaksa’s SLFP and the JVP.
+ There was further consolidation of power following the presidential elections
+ of 2005, where Rajapaksa came into power as president primarily due to
+ both JVP and JHU throwing weight behind his campaign.
+ As a result, several spectators have argued that the present government’s
+ strategy of no negotiation with the LTTE, the subsequent escalation of
+ the conflict into a ‘War for Peace,’ and the post-conflict state strategy
+ of state-led economic development reflect the aims articulated in the JVP
+ and JHU agreements with the SLFP, as opposed to the SLFP, representative
+ of the old elite, having developed these.
+ This was also stressed upon by the 2007 ICG report which highlighted that,
+ “ Nationalist parties, opposed to any significant devolution of power to
+ Tamil areas of the north and east and to negotiations with the Tamil Tigers,
+ help set President Mahinda Rajapaksa’s agenda.”
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. i)"
+key "international2007sri"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Peacebuilding and local rejection
+\end_layout
+
+\begin_layout Standard
+The peacebuilding work of the like-minded group of donors was greatly affected
+ by this local resistance and the coming to power of the new UPFA
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "UPFA"
+description "United People's Freedom Alliance, a parliamentary coalition led by Rajapakse. UPFA formerly included the JVP and JHU"
+
+\end_inset
+
+ government.
+ Between 2005 to 2007 there was, what can only be described as, a systematic
+ scapegoating of civil society initiatives that were linked to liberal peace
+ work, based on these commitments that Rajapaksa’s SLFP made with these
+ two organisations.
+ The Parliamentary Select Committee on NGOs that was established in January
+ 2006 was chaired by JVP and dominated by JHU candidates; while focusing
+ on discrepancies during the tsunami response, the body also actively interrogat
+ed NGO activities that considered ‘inimical to the sovereignty and integrity
+ of Sri Lanka’ and ‘detrimental to the national and social well being of
+ the country.'
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2012between"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Through public hearings and an anti- NGO campaign in the state media, the
+ JVP effectively linked civil society actions to notions of patriotism and
+ support for a unitary state.
+ There was also a class dimension to this backlash - since engagement with
+ peacebuilders and Western donors required the ability to grasp technical
+ English and the overarching liberal vision, the CSOs being targeted were
+ large Colombo based organisations that represented a small elite network.
+ Through the reliance on JVP and JHU for popular support, the UNFP led Rajapaksa
+’s core constituency was among the lower class and rural Sinhalese, who
+ came to equate the then term NGO with professionalised elite that were
+ out of touch with the concerns of ordinary people.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 5)"
+key "hilhorst2003real"
+
+\end_inset
+
+ Thus, with peace being equated to an elite federal solution that was anti-patri
+otic in public discourse, the room for peacebuilders and supported CSOs
+ to emerge as an alternative to Rajapksha’s ‘war for peace’ rhetoric was
+ extremely limited.
+ Most local NGOs and CSOs, in an attempt reinvent their presence in the
+ domestic arena, disengaged from the usage of ‘peace’ terminology Finally,
+ the establishment of a national ground level consensus towards pursuance
+ of a victor’s peace, followed by an intense securitised developed to establish
+ political legitimacy, is also recognised as having been a product of the
+ work done by CSOs that have patronage of the JVP and JHU.
+ Significant among these are the Patriotic National Movement, and the Manel
+ Mal (Blue Lotus movement) which operated as patriotic welfare organisations,
+ which on the surface worked to aid military families, but also provided
+ a forum for the youth to engage in debates on nationalism and the need
+ for military in the maintenance of a unitary state.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The term ‘NGO’ soon came to signal a set of potentially negative connotations
+ to the broader public; many NGOs to start to stress their ‘un- NGOness’
+ and focused on distancing themselves from their NGO status or from the
+ NGO sector as a whole.
+ Local NGOs thus engaged in intensive efforts to repackage their organisations
+ and their work to make it more palatable and relevant to the local population
+ in context of the changing political climate, preferring to eschew peacebuildin
+g labels and activities in order to prolong their own continuity.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2013everything"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Thus, while the issue areas that these donors have focused on in terms of
+ human rights, accountability, governance and reconciliation, have stayed
+ constant throughout their engagement in Sri Lanka, there have been distinct
+ changes in the modalities for implementing peacebuilding strategies due
+ to this local resistance.
+ At an operational level, the idea of a “local rejection” brings into question
+ the efficacy of civil peacebuilding in contexts with perceived “bad governance.”
+\begin_inset CommandInset citation
+LatexCommand citet
+key "dietrich2013bypass"
+
+\end_inset
+
+ As earlier discussed, there has been growing tendency for donors to bypass
+ the government and directly engage with what their perceive as “civil”
+ society as an alternative means of achieving liberal goals in contexts
+ percieved to have ‘bad governance’.
+ But as the Sri Lankan case demonstrates, the efficacy and sustainability
+ of this strategy is questionable if “un-like minded” or “uncivil” factions
+ have greater legitimacy among the masses.
+ The vernacular local groups in Sri Lanka were successful in fanning mass
+ anti-West sentiments against the liberal peacebuilding project by representing
+ it as an elite, anglo-saxon, Christian mission that seeks to undermine
+ national unity.
+ During the pre-2000 period, most aid was channelled through the government
+ and in the post-negotiations period donors had sought to channel aid being
+ through the civil society, to ‘evade’ the perceived increase in illiberal
+ governance by the new regime.
+ However with the backlash and refusal of the local civil society to be
+ associated with any peacebuilding work, this group of donors was forced
+ to either taken on the role of implementers themselves, or have chosen
+ to work only through INGOs and the UN system.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interviews with CLM donors in Colombo and Geneva
+\end_layout
+
+\end_inset
+
+This has further reinforced their positions as ‘outsiders’ in the post-conflict
+ context, giving them limited scope to influence domestic debates or place
+ a ‘check’ on the government, as is the goal of emancipatory peacebuilding.
+ 
+\end_layout
+
+\begin_layout Chapter
+“Trapped between a rock and a hard place” : Peacebuilding in Post-conflict
+ Sri lanka
+\end_layout
+
+\begin_layout Standard
+This chapter focuses on the second type conditionality that has been imposed
+ on liberal peacebuilders in the post-conflict period.
+ A defining feature of the post-conflict environment has been the emergence
+ of horizontal friction between the government and Sinhalese-nationalist
+ local groups over the role of the West in the post-conflict reconstruction
+ process; reflective of the feed-back loop model discussed by Björkdahl
+ and Höglund , the same absolutist anti-West rhetoric that brought the governmen
+t to power, became a point of contention and a source of friction.
+ This has resulted in a power struggle between the dominant national political
+ elite (Rajapkse) and dominant local Sinhalese-nationalist groups (JVP,
+ JHU, Buddhist Sangha) to influence the masses and policy making through
+ formal domestic forums like the electoral platform, and informal domestic
+ platforms like the media.
+ In the post-conflict period, the government successfully appropriated the
+ nationalist mantle raised by local actors; the nature of the conflict's
+ end as a ‘Victor’s Peace’ is recognised as being the catalyst that cemented
+ asymmetrical horizontal or domestic power structures in Sri Lanka in favour
+ of Rajapaksa, as it reaffirmed his conflict period election rhetoric of
+ being the ‘saviour’ of the Sri Lankan state.
+\end_layout
+
+\begin_layout Standard
+While most accounts have focused on the externalisation of threats by the
+ regime in order to consolidate power, these represent static and structure-boun
+d analyses that overlook the continued existence of ‘internal’ threats ;
+ on conducting an actor-focused analysis as recommended by Björkdahl and
+ Höglund, it can be said that while the ‘Tamil question’ was effectively
+ put to rest by the military victory, the local rejectionist movements that
+ were responsible for the public momentum and support for the military solution
+ have continued to remain radical and against any power-sharing solution.
+ The government on the other hand, has had to walk a tight-rope between
+ these demands and international pressure, and has used its consolidation
+ of power towards re-marginalising the political need for the JVP-JHU combine
+ in its electoral victories.
+ Second, it has used this control to construct what some authors have described
+ as a ‘smokescreen,’ where international actors are involved in the rehabilitati
+on and reconstruction of the country but within a specific framework.
+ The need for developing this smokescreen in response to international pressure
+ is also explored, as it further helps to understand the nature of controls
+ that the government has developed to mediate Western participation in the
+ post-conflict reconstruction process.
+\end_layout
+
+\begin_layout Standard
+To illustrate better the Rajapaksa administration’s establishment of centralised
+ institutional conditions and controls on peacebuilders, which has effectively
+ reduced their access to post-conflict contexts as well as the targeted
+ population, this chapter concludes by focusing on the experience of the
+ 
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "JPA"
+description "Joint Plan of Assistance to(for) the Northern Province "
+
+\end_inset
+
+nd the role of the Presidential Task Force (PTF) in “managing” peacebuilders.
+ The institution of the PTF can be considered a source of the conditionality,
+ while the JPA and other policies are instruments through which centralised
+ domestic control is exercised.
+ The efficacy of these two in crowding out CLM donors, as is reflected in
+ the group's decision to disengage with the Sri Lankan context and peacbuilding
+ processes, in turn reflects the outcomes of an effective appropriation
+ of the “local turn,” and a co-option response by the national elite.
+ The government has repeatedly invoked its legitimacy to impose these conditiona
+lities through its electoral success among the masses.
+ 
+\end_layout
+
+\begin_layout Standard
+The structuring of this chapter is modeled based on the actor-oriented perspecti
+ve within the scope of which Björkdahl and Höglund’s friction lens is applied.
+ The first section looks at the horizontal friction between local actors
+ - specifically the Rajapaksa administration and the JVP- the cause for
+ this friction, and the eventual response of elite-co-option.
+ The second section looks at aspects of the long-standing vertical friction
+ between the international community and the Rajapaksa administration regarding
+ the trajectory of post-conflict reconstruction and settlement, and the
+ national elite motivations which shaped a co-option response to this friction.
+ The final part of this chapter focuses on instrumental role played by the
+ Joint Plan of Assistance for the Northern Province (JPA) 2011-2012, and
+ the role of the Presidential Task Force in implementing these conditionalities,
+ and the direct impact this had on the ambit of liberal peacebuilding in
+ post-conflict Sri Lanka.
+\end_layout
+
+\begin_layout Section
+Horizontal frictions and the politics of smokescreens
+\end_layout
+
+\begin_layout Standard
+Most accounts analysing the government’s control over the trajectory of
+ the conflict and political debate on the issue of minority rights in the
+ immediate post-conflict environment have tended to focus on Rajapaksa and
+ his cabinet alone.
+ It has recurrently been argued that the lack of political impetus towards
+ an effective power sharing that recognises minority rights has been due
+ to the elites having effectively consolidated a ‘soft authoritarian’ state,
+ by externalising threats and thus diverting any potential domestic debate.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "devotta2010civil"
+
+\end_inset
+
+ This however, is arguably problematic given that since the end of the war,
+ Sri Lanka has seen one presidential election, parliamentary election and
+ a number of local elections, where these issues have repeatedly been brought
+ up.
+ What the experience of these elections has indicated is the successful
+ statesmanship of Rajapaksa in being able to undermine an already decimated
+ ill-prepared opposition through political strategising and incentives that
+ encourages cross-over politics through a system of political patronage.
+ Most importantly this has deterred the electoral choice of any effective
+ opposition by Wickremasinghe’s UNP.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "wickramasinghe2009after"
+
+\end_inset
+
+ This however, is in not a unique feature of the post-conflict context;
+ clientistic and patronage politics have been a central feature of the post-inde
+pendence Sri Lankan state, drawing from the constant ethnic-outbidding that
+ mainstream parties have engaged in.
+ 
+\end_layout
+
+\begin_layout Standard
+What has been a key cause for the lack of domestic momentum towards the
+ devolution of power in post-conflict environment in Sri Lanka is the continued
+ influence that the JVP and JHU have had in holding the government at check.
+ Both these groups perceive any state restructuring towards the devolution
+ of power as a form of Western appeasement that threatens the territorial
+ and moral integrity of the Sri Lankan state’s sovereignty.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2011deeper"
+
+\end_inset
+
+ While the Rajapaksa-led UPFA regime was immensely dependent on these local
+ nationalist groups to consolidate its power in the period between 2005
+ till the end of the war in 2009, in the post-conflict era there was a strategic
+ need to re-frame the government’s position on multiple issues.
+ The uneasiness with the extremist local agenda is most keenly noticeable
+ in the experience of the presidentially appointed All Party Representative
+ Committee and the Expert Panel on Constitutional Reform.
+ The original intent of setting up both these ad-hoc bodies during the conflict
+ was to signal a continued commitment to international concerns about a
+ positive peace.
+ However, neither process or body was able to implement intended peace-meal
+ measures due to recurrent boycotts, walkouts, and protests by the participating
+ JVP and JHU representatives.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "hoglund2012hybrid"
+
+\end_inset
+
+ The government’s decision to abrogate the CFA on January 16, 2008, despite
+ concerns within the government that this would prompt Western states to
+ discuss a military option is considered to be reflective of how effective
+ and compromising this local groups’ pressure was.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+'Why the Government of Sri Lanka abrogated the Ceasefire Agreement, ' November
+ 1, 2008 http://www.asiantribune.com/?q=node/9079
+\end_layout
+
+\end_inset
+
+ In discussing this dilemma being faced by the Rajapaksa regime during the
+ period preceding the abrogation , an ICG report notes that, “in part to
+ avoid being challenged by hardline nationalist parties, he has adopted
+ many positions formerly associated with extremist parties...
+ But facing international pressure not to abandon a political solution,
+ it still says it seeks a southern consensus on constitutional reforms.”
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 2)"
+key "international2007sri"
+
+\end_inset
+
+ As a result of this, Rampton notes, despite the past electoral importance
+ of the alliance between Rajapaksa’s SLFP and the these groups, the SLFP
+ worked towards not being dependent on these groups, which tend to limit
+ the government space for manoeuvre in the international arena, opposing
+ face-saving gestures such as the restitution of the ineffective India imposed
+ 13th Amendment.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The Thirteenth Amendment (13A) to the Constitution of Sri Lanka is based
+ on the 1987, Indo-Sri Lanka Accord between Indian Prime Minister Rajiv
+ Gandhi and Sri Lankan President J.R.
+ Jayewardene .
+ The Amendment created Provincial Councils in Sri Lanka, while making Sinhala
+ and Tamil official languages of the country and English as link language.
+\end_layout
+
+\end_inset
+
+ In the aftermath of the Victor’s Peace, while fielding international scrutiny
+ the newly victorious regime has also sought to, “ wrest the mantle of patriotic
+ authenticity away from the smaller nationalist parties such as the JVP
+ and JHU.”
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+ Particularly post the split of the JVP in 2008, which had resulted in the
+ rise of a more ethno-religiously radical Jathika Nidahas Peramuna (JNU),
+ the Rajapaksa administration was keen to establish its electoral independence
+ from these groups.
+\end_layout
+
+\begin_layout Standard
+Thus following the end of the war, the regime has distanced itself from
+ these factions, while asserting Rajapaksa’s role as the true defender of
+ Sri Lanka.
+ The Victor’s Peace is realised to have given Rajapaksa the required momentum
+ to appropriate the nationalist mantle, giving legitimacy to his claim of
+ being a reborn ‘Dutugemunu,” a legendary Sinhala king and devout Buddhist
+ who had regained lost Tamil territory and established total sovereignty
+ over Sri Lanka.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2010would"
+
+\end_inset
+
+ This strategy of Rajapaksa and the SLFP can be considered successful, as
+ is indicated by the degree of success the President had in his re-election
+ for a second term in 2010, as well as his consolidation of power in the
+ parliament.
+ In the 2010 presidential election, that is estimated to have had a 70%
+ voter turn out, the President won 58% of the votes.
+ Subsequently, in an early parliamentary election in the same year, the
+ SLFP and its allies secured a two-thirds majority in the parliament,, without
+ support from either the JVP or the JHU.
+ In fact, described as a ‘sordid alliance,’ the JVP instead chose to back
+ the opposition party, the economic right leaning UNP (which had previously
+ been headed by Wickremsinghe from 2000-2005), indicating the degree to
+ which Rajapaksa had fallen out with these local groups.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "JVPsordid2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Vertical frictions and the politics of smokescreens
+\end_layout
+
+\begin_layout Standard
+The need for this political manoeuvre space in the ongoing vertical friction
+ with the international Western community has been discussed by Goodhand
+ et al, who highlight that in post conflict period, while financial assistance
+ in the form of loans and grants from western countries had fallen, the
+ government was not immune to western opinion and pressure due the economic
+ repercussions.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "SriLankaSPA2011"
+
+\end_inset
+
+ Despite the anti-western rhetoric, the regime is unlikely (and unable)
+ to disengage from ‘the West’decisively because there too many long standing
+ economic, political and cultural linkages for Sri Lanka to entirely discount
+ western views and sensibilities.
+ Even towards the end of the war, the Rajapaksa administration had continued
+ to attempt and establish some ground with Western actors.
+ This is reflected in the discourse used by government to legitimize the
+ war in the north and east, by framing its operations within the ‘war on
+ terror’ framework and labelling it a ‘humanitarian war’ aimed at liberating
+ the Tamil people from the ‘terrorists.’
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2010stabilising"
+
+\end_inset
+
+ Within Björkdahla and Höglund’s framework, the GoSL’s success in tipping
+ the balance of the horizontal power struggle in its favour, has thus allowed
+ it to co-opt the former local rejection and re-frame the response to the
+ vertical friction with Western peacebuilders in a more pragmatic fashion.
+ By definition, the co-option response is largely led by the local elite
+ and sees the strategic adoption of external norms and practices as a means
+ of averting pressure.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bjorkdahl2013precarious"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While there has been an immense focus on Sri Lanka’s alliance with non-tradition
+al donors like China, Iran and Russia, there continues to be a question
+ about the degree to which this alliance emerged as a result of political
+ will and strategy as opposed to political need.
+ With the transformation of the shadow war into a full-fledged of military
+ assault from 2008 onwards, political-strategic Western donors like the
+ US, UK, Australia, and Canada exhibited behaviour that has been described
+ as pendulum like, due to the shifts between extremes of political engagement
+ and disengagement.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2005aid"
+
+\end_inset
+
+ Since the nature of engagement was based on political considerations, strategie
+s changed in response to immediately perceived threats and opportunities.
+ On one hand, this group of donors undertook a set of containment strategies
+ that were based on the growing perception that the Sri Lankan state had
+ increasingly come to take the side of more illiberal states in the global
+ system.
+ The 2008 Western move to block the IMF loan of 2.6 billion USD, during a
+ critical balance of payment crisis is one example of this.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 44)"
+key "SriLankaSPA2011"
+
+\end_inset
+
+ Several accounts have seen this as a miscalculated political ‘stick’ as
+ it pressured the Rajapaksa government moved to form stronger alliances
+ with non-traditional donors like China.
+ For Uyangoda, since Western economic backing to the war against the LTTE
+ came with human rights conditionality,’ the regime was forced into a closer
+ embrace with Eastern powers and ‘non traditional’ donors.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "uyangoda2010sri"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At the same time, reflective of the pragmatism that motivates policy formulation
+ within this donor group, from 2008 onwards, against the Rajapksha government’s
+ declaration of ‘war for peace,’, there was also a systematic proscription
+ of the LTTE in the US, UK, Canada, and Australia.
+ This led to the international de-legitimisation of the non-state actor,
+ directly affecting sources of funding and the potency of diaspora pressure
+ on international governments.
+ In a sense, led by the US, there was a tacit acceptance of the ‘terrorism
+ agenda’ put forward by the Rajapaksa government.
+ Observers characterised this as a quid pro quo, wherein policy makers in
+ these states felt that their hard-line stand on the LTTE would be reciprocated
+ by the Rajapaksa government operationalising the long negotiated power
+ sharing solutions in the post-war environment.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "lunstead2010united"
+
+\end_inset
+
+ Goodhand argues that by virtue of the large programmes and disbursement
+ pressures that donors like the US, Australia and Canada have, there was
+ a prioritization of access over advocacy, with the hope of shaping the
+ government’s preferences.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "SriLankaSPA2011"
+
+\end_inset
+
+ Thus while nature and process of attaining the Victor’s Peace was problematic
+ to the Western donor community, in its aftermath political-strategic donors
+ viewed it as an opportunity to forge a more inclusive political settlement
+ with more moderate Tamil sections in the North and East.
+ In light of this tenuous window, the Rajapaksa government’s strategy of
+ ‘externalising’ threats through an anti-West rhetoric was thus arguably
+ tempered by the pragmatic need to continue to appease Western concerns,
+ and thus shapes the co-option response.
+\end_layout
+
+\begin_layout Standard
+The second set of economic considerations relates to the costs involved
+ in the reconstruction process.
+ Despite the prolonged conflict and the tsunami, the country was identified
+ as a lower middle income state by 2009 – this was to have multiple impacts
+ on the financing for the government’s intended path of state-led development
+ as it meant that the country was no longer eligible for concessional loans
+ from International Financial Institutions.
+ In this context, the continued wielding of economic ‘sticks’ by more human-righ
+ts inclined political-strategic donors further affected the government’s
+ ability to finance a speedy reconstruction.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "SriLankaSPA2011"
+
+\end_inset
+
+ In early 2010, following months of negotiations the EU had withdrawn the
+ GSP+ privileges to Sri Lanka on the grounds that the key conditions for
+ renewal ie respect of labour laws, working conditions in the manufacturing
+ sectors and human rights, had not been met.
+ As Goodhand notes, despite the government’s rhetoric that the GSP+ trade
+ concessions were not important, there had been a number of informal discussion
+ were the government had conceded to certain EU conditions about the plight
+ of IDPs and political prisoners, before talks failed.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "SriLankaSPA2011"
+
+\end_inset
+
+ Given that Sri Lanka was emerging from a serious balance of payment crisis,
+ the economic fall out of the political criticism was thus an inherent threat
+ to the stability of the country, and the regime.
+ 
+\end_layout
+
+\begin_layout Standard
+Also, despite the increasing focus on the Chinese role in financing Rajapaksa’s
+ strategy of state-led development, several economists have pointed out
+ that this financing is hurtful to the Sri Lankan economy.
+ China does not distinguish between ODA from economic cooperation or investment
+ and therefore there is a blurring of concessional finance with other financial
+ flows.
+ While the country has been among Sri Lanka’s largest source of foreign
+ funding since 2009, most loans are non-concessional or in the form of export
+ credit with high interest rates and strict commercial conditions being
+ common.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "wheeler2012china"
+
+\end_inset
+
+ Additional typical conditions attached with Chinese loans of including
+ Chinese companies as project contractors and prioritising is equipment,
+ material, technology or services (at least 50%) from China has also been
+ the source of nationalist resentment by local populations and businesses.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Sirimana2011"
+
+\end_inset
+
+ Thus while the presence of China has been a source of political leverage
+ for the GoSL, allowing the government to triangulate assistance and withstand
+ Western pressure, it has in no way eliminated the country’s continued dependenc
+e on Western states for trade and commercial ties.
+ Thus while there has been an ‘Eastward turn,’ the extent to which it represents
+ a step change signaling the irreversible decline of Western interests and
+ influence in Sri Lanka can be contested.
+ 
+\end_layout
+
+\begin_layout Standard
+At multiple forums, the President and his advisors as well as ministers
+ have re-affirmed their overt commitment to concerns and ideals of reconciliatio
+n, rehabilitation and accountability that have repeatedly been raised by
+ the international community, while including a caveat- that, each of these
+ be domestically led.
+ At his second swearing-in ceremony in early 2010, the President reiterated
+ the government’s pragmatism about the perception of the country’s growing
+ East-ward tilt, stressing that, “Our policy is one of non-alignment.
+ We do not have enemy states or such groups or blocs.
+ During the last era, we worked with many nations in agreement and friendship
+ for national security.
+ We now step into the development era.
+ We extend our hand of friendship to those who assist us in this endeavor...Therefo
+re, we will strengthen already existing relations between nations and are
+ ready to establish new relations for national security and development.”
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Rajapakse2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the post-conflict period, the GoSL has thus followed a policy agenda
+ geared towards selectively mobilizing domestic and international support,
+ and balancing the two against one another.
+ Goodhand et al.
+ have described this as a strategy that consolidates the governments position
+ through the, ‘construction of elaborate smokescreens seeking to capture
+ or contain a range of potentially oppositional domestic and international
+ forces.’
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 17)"
+key "SriLankaSPA2011"
+
+\end_inset
+
+This has shaped the domestic institutional structures that took on the mantel
+ of post-conflict reconstruction.
+ In terms of their domestic orientation, in the vernacular press these instituti
+ons have asserted their presence as being regulatory bodies that place a
+ ‘check’ on any rogue activities by the UN system and the Western powers.In
+ terms of their international orientation, there is a distinct two-fold
+ strategy that has arguably been developed based on the nature and difference
+ between the two groups of bilateral Western donors.
+ Donor support by larger donors who are a part of the political-strategic
+ group continues to be significant in the form of budget support from the
+ IMF, helping bridge the external financial gap and encouraging private
+ sector growth.
+ Therefore, these external resources continue to have significant economic
+ and political effects, and are differently treated.
+ However, in the case of the CLM donors, who have been identified as a much
+ smaller donors with no over commercial or strategic interests, the government
+ views them as an externality that needs to be ‘dealt with.’ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "SriLankaSPA2011"
+
+\end_inset
+
+ As an interviewer from one of the CLM donors stated, “there is a perverse
+ focus on increasing ‘donor alignment’ behind the government.
+ This creates an illusion of collective dialogue, but it is only an illusion
+ for the people in Geneva.
+ In Colombo, everyone knows what is what.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with Director of Donor Agency, Colombo
+\end_layout
+
+\end_inset
+
+ The nature and scope of the conditionality imposed by the government is
+ analysed by examining the setting up of the 19- member Presidential Task
+ Force for Resettlement, Development and Security in the Northern Province
+ (PTF), a body that continues to be one the primary points of liaison for
+ the CLM donors with the government, and its Joint-Plan of Assistance for
+ the Northern Province, a programme that effectively signals an assertion
+ of government control over spaces targeted by peacebuilders.
+ 
+\end_layout
+
+\begin_layout Section
+Case Study: The Presidential Task Force (PTF
+\begin_inset CommandInset nomenclature
+LatexCommand nomenclature
+symbol "PTF"
+description " Presidential Task Force for Resettlement, Development and Security in the Northern Province"
+
+\end_inset
+
+) and the Joint Plan of Assistance for the Northern Province (JPA)
+\end_layout
+
+\begin_layout Standard
+While focusing on locally imposed conditionalities in the post-conflict
+ context, field research for this thesis primarily focused on the development,
+ response and perceptions surrounding the PTF’s Joint Plan of Assistance
+ for the Northern Province (JPA), launched in 2011.
+ The field research was carried out for a period of three months in Colombo
+ and Jaffna in early 2014, and focused on both the government and donors
+ perception regarding post-conflict reconstruction, resettlement, and the
+ role of the international community.
+ Since the focus of the discussions was extremely sensitive and needed to
+ be historically located, open ended and flexible interviews were conducted
+ in order to delve into the issue and understand competing narratives, reflectio
+ns, and perceptions.
+ Finally, the interviews were conducted with highly placed officials in
+ the government, the international donor and NGO community, and certain
+ national NGOs who had participated in high level decision making during
+ the peace-process and had continued to be active in the post-conflict context;
+ since many of these individuals continue to work in the field, anonymity
+ of sources has been of utmost significance.
+ 
+\end_layout
+
+\begin_layout Standard
+There are two reasons that the JPA has been chosen in order to examine vertical
+ donor-recipient peacebuilding friction in post-war Sri Lanka: First, the
+ document represents the closest version of a consolidated government policy
+ regarding its envisioned role for Western actors in the Northern Province
+ since establishing absolute control over this contested region in 2009.
+ The precursor to this can be found in the ambiguous Uthuru Wasanthaya (Northern
+ Spring) Programme that was announced in 2009, before the end of the war
+ and eventual consolidation of Rajapaksa’s stronghold in domestic politics.;
+ the Uthuru Wasanthaya is however again recognised as a policy direction
+ that reflects demands of the JVP and JHU, as opposed to reflecting the
+ government's stand after having achieved its military victory.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "rampton2011deeper"
+
+\end_inset
+
+ The JPA thus has significant symbolic value as a GoSL led framework focused
+ on ‘aligning’ Western aid with national priorities on the reconstruction
+ and resettlement of the Northern Province, long considered the heartland
+ of the Tamil minority, that directly impacts the ability of the Western
+ nations to continue their post-conflict peacebuilding in the country.
+ Second, asides from its symbolic positioning, the programme has an explicitly
+ stated hierarchy which lists the envisioned role of Non-state actors like
+ the UN and INGOs and the primacy of the government in collecting all end
+ reporting and evaluation data.
+ It was observed that from both, the perspective of the government and the
+ Western donor community, the launch of the JPA was representative of two
+ processes that emerged in the post-war environment- First, increasing centralis
+ation of the Sri Lankan state based on which there was a growing move to
+ ‘align’ aid to national priorities, by attempting to re-orient donor funding
+ through the government; Second, the government's ‘divide and rule’ policy
+ on Western donors.
+\end_layout
+
+\begin_layout Section*
+About the JPA 2011 -2012
+\end_layout
+
+\begin_layout Standard
+In the aftermath of the War for Peace operations, characterised by the GoSL
+ as the ‘Humanitarian Operation,’ which sought to liberate the North from
+ the ‘terrorist’ LTTE, it was estimated that nearly 300,000 people had been
+ displaced.
+ Even before the official declaration of its victory on May 19th, 2009,
+ on May 14, the official state media released a notice making clear the
+ government’s intention that in the aftermath of the conflict, any rehabilitatio
+n of the previously disputed regions would be controlled, led and implemented
+ by the Central government, with special interest being taken by the President
+ himself.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with member from PTF Secretariat, Colombo ; Interview with Sri
+ Lankan MP, former member of the Ministry of Disaster Management and Human
+ Rights
+\end_layout
+
+\end_inset
+
+ Against the recurring criticisms from the international community and internati
+onal staff in Sri Lanka of there having been rampant human rights violations
+ and larger civilian casualties than reported by the government, the GoSL
+ wanted to ensure that the rehabilitation of displaced persons was an entirely
+ domestic process, in order to prevent any room for further criticism.
+ The notice announced the appointment of a 19- member Presidential Task
+ Force for Resettlement, Development and Security in the Northern Province
+ (PTF), with the mandate to prepare strategic plans, programs and projects
+ to resettle internally displaced persons and, rehabilitate and develop
+ economic and social infrastructure of the Northern Province.
+ There was no ambiguity with regards to what this meant for the peacebuilders,
+ “When the PTF was established, they were made to know that this was the
+ pivotal point, and they had to accept it...
+ they had to fall in line with us.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with member from PTF Secretariat, Colombo 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Rajapaska government’s decision pursue a military solution from 2005
+ onwards had meant an intense militarisation of Sri Lanka’s political and
+ social arenas, that was accompanied by the valorisation of military personnel.
+ Having placed the military and its defeat of the LTTE on a pedestal, the
+ GoSL had increasingly presented the military establishment as being the
+ repository of true nationalism, and thus, a central element in ‘re-assimilating
+’ the North into the Sri Lankan nation state.
+ The composition and modalities of the PTF reflects this executive-military
+ nexus; President Rajapaksa nominated to the PTF Basil Rajapaksa, the President’
+s brother who subsequently went on to become the Cabinet Minister for Economic
+ Development, and Gotabaya Rajapaksa, the then Secretary of Defence, indicating
+ that the military would continue to play a key role in the re-emergence
+ of the North.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Significantly, in following the 2010 elections, in early 2011, the Ministry
+ of Defence was renamed to 
+\begin_inset Quotes eld
+\end_inset
+
+Ministry of Defence and Urban Development
+\end_layout
+
+\end_inset
+
+ The other members of the 19 member body also included the Chief of Defence
+ Staff, the Air Chief Marshal , the Commander of the Army , the Commander
+ of the Navy, the Commander of the Air Force, and the Inspector General
+ of Police.
+\end_layout
+
+\begin_layout Standard
+Beginning with the 180-day Programme in mid-2009, the GoSL through the PTF
+ established the initial protocol through which the UN, INGOs and NGOs could
+ partner in rapid early recovery interventions to stabilize returning communitie
+s.
+ It was mandated that the IDPs be kept in three rehabilitation camps until
+ the PTF, along with the Army, felt that the region had been effectively
+ stabilised.
+ While the Government welcomed UN material assistance, it rejected the UN
+ focus on principles regarding IDP returns and a political solution.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "keen2013camp"
+
+\end_inset
+
+ The UN was largely unsuccessful in its plans to create a mechanism to coordinat
+e post-conflict assistance among donors and the UN.
+ In the absence of being able to obtain from the Government any sense of
+ an overall public plan to guide post-conflict relief, recovery and reconstructi
+on, the UN found itself implementing actions in an ad-hoc and reactive manner.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "UN2012"
+
+\end_inset
+
+ In contrast to the Sri Lankan government’s description of the camps as
+ "welfare centres" or "welfare villages," critics, including the United
+ Nations’ High Commissioner for Human Rights Navanethem Pillay, described
+ the camps as “prison” or "internment camps" given that the IDPs were not
+ permitted leave the camps and there was limited access to the camps by
+ independent aid organisations, independent media, relatives and politicians
+ from domestic opposition parties.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "keen2013camp"
+
+\end_inset
+
+ Thus, despite concerns among international actors that this prolonged detention
+ was a ploy for further ‘cleansing’ and on the whole, went against international
+ law, several INGOs and UN agencies eventually partnered with the government.
+ As the 2010 Panel of Experts on accountability in Sri Lanka, in an additional
+ memorandum to the Secretary General stated, that the UN and member states
+ “did not adequately invoke principles of human rights that are the foundation
+ of the UN but appeared instead to do what was necessary to avoid confrontation
+ with the government,”
+\end_layout
+
+\begin_layout Standard
+According to GoSL accounts, by 2011, over 456,000 people (138,000 families)
+ displaced at various stages of conflict had been resettled in their area
+ of origin in the North, signifying the success of the centralised government
+ led planning under the PTF.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "JPA2011"
+
+\end_inset
+
+ The JPA 2011, according to government, indicated the end of the early recovery
+ phase and the tapering off of the humanitarian crisis created in the aftermath
+ of the Humanitarian Operation.
+ While there would be an addressal of residual humanitarian need, thus real
+ focus of the Joint Plan of Assistance to the Northern Province was to be
+ on broader interventions in the post-conflict regions to strengthen market
+ linkages and value-production to support the transition from aid reliance
+ to self-reliance.
+ Recognising the special needs of particularly vulnerable groups like households
+ led by single women, separated children and unaccompanied minors, the elderly,
+ disabled individuals and others and emergent social issues of land ownership,
+ civil and legal documentation, and equal access to resources, the first
+ JPA in 2011 was thus a humanitarian/early recovery funding appeal to donors
+ for projects identified and approved by the PTF.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 5)"
+key "JPA2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In terms of monitoring of progress and indicators, it was made clear that
+ implementing partners would be expected to report twice a month on activities
+ and their impact through the 3W (Who, What Where) tool, that would be controlle
+d and managed by the PTF with the technical support provided by Office for
+ the Coordination of Humanitarian Affairs (OCHA).
+ The 3W tool had first been introduced by the OCHA following the Tsunami
+ of 2004, and had been used by the agency to map out humanitarian responses
+ and aid-disbursements during the crisis period.
+ However, under the JPA, the OCHA’s role would be limited to providing,
+ ‘technical support to develop the 3W database as per the Sri Lankan context
+ and requirement as well as conducted training to all the staff of government
+ and non-government agencies at central and field levels on reporting into
+ the database.’28
+\end_layout
+
+\begin_layout Standard
+According to OCHA’s Financial Tracking System (FTS), in the first year of
+ the JPA 2011, 34.4% of the appeal for $129 million was met.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://fts.unocha.org/pageloader.aspx?page=emerg-emergencyCountryDetails&cc=lka&yr=
+2011
+\end_layout
+
+\end_inset
+
+ Subsequently, the JPA was renewed for the year 2012.
+ Here, while re-emphasising the JPA as the primary domestic framework for
+ early recovery, the drafters indicated that there JPA would also re-orient
+ to focus on early development interventions, characterised as ‘soft assistance.’
+ These were primarily to be capacity-building interventions by agencies
+ which would be ‘led by respective GoSL authorities at every level.’
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 4)"
+key "JPA2011mid"
+
+\end_inset
+
+ However, like the earlier JPA and the nature of assistance allowed in the
+ IDP camps, this would mostly be in the form of material assitance, through
+ construction of facilities and supporting work done by government agencies,
+ under the surveillance of the PTF.
+ A major concession made to international staff working on projects in the
+ North during this period, was allowing access to these regions without
+ mandatory clearance from the PTF.
+ According to the FTS, of the requested $147 million, only 40 million USD
+ or 27.3% of the appeal was funded.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://fts.unocha.org/pageloader.aspx?page=emerg-emergencyCountryDetails&cc=lka&yr=
+2012
+\end_layout
+
+\end_inset
+
+ While the JPA was not renewed in 2013, analysing the lack of donor interest
+ in the programme, which was repeatedly positioned as the ‘ definitive planning
+ framework for humanitarian/early recovery operations,’ thus presents interestin
+g insights into the existing friction between the GoSL and the donor community,
+ and its attempt to curb any peacebuilding oriented aid following the end
+ of the conflict.
+\end_layout
+
+\begin_layout Subsection*
+Donor response
+\end_layout
+
+\begin_layout Standard
+OECD data on flows to Sri Lanka from 2011 to 2013, which include humanitarian
+ aid flows to the country indicate that overall, in terms of bilateral donors,
+ Japan, Korea were by far the largest aid providers in Sri Lanka.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2011conflict"
+
+\end_inset
+
+ However in literature, as well as through media statements and reports,
+ it becomes clear that both countries were focused on large-scale infrastructure
+ development and technical cooperation with the government, as opposed to
+ engaging in humanitarian recovery and rehabilitation.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "goodhand2011conflict"
+
+\end_inset
+
+ In contrast, FTS flows to Sri Lanka detail the 'Other Humanitarian Funding'
+ per donor to the OCHA and funding per donor to the JPA, which is separate
+ from the former OCHA funding window.
+ On examining the disbursement per donor to the JPA 2011, 2012 and on comparing
+ it with the disbursement per donor to the non-government funding appeals
+ in Sri Lanka for the same year, the preferred nature of assistance by small
+ CLM donors is reflected.
+ 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Source: OECD Databank
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "ocha2011"
+
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "JPA2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+First, the CLM group of donors, including those whose donor agencies no
+ longer have direct operations in Sri Lanka, had continued to fund conflict
+ recovery related work in the country.
+ Across both years, this group of countries collectively provided about
+ 40% of funding to Humanitarian projects being carried out by the UN, other
+ than the direct programmes being implemented by their respective agencies
+ and embassies.
+ Second, in comparison, the response to the JPA from this group of donors
+ has been, at best, lukewarm.
+ Despite the fact that the JPA appeal was systematically launched two months
+ before the OCHA appeal in order to strategically place it as the decisive
+ humanitarian funding framework, the programme was under-funded, with CLM
+ donors providing less than 20% of the whatever amount was finally given,
+ as compared to political-strategic donors like the US, which was the largest
+ JPA funder.
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "JPA2011"
+
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "JPA2012"
+
+\end_inset
+
+ The series of interviews conducted with donors agencies, embassies, and
+ implementers thus sought to examine this response to the JPA, against the
+ fact that even in the limited policy space that had existed immediately
+ after the war, donors had continued to work towards building a civil peace,
+ as detailed in the earlier section.
+ The following sub-sections are reflective of the broad themes that emerged
+ from these interviews.
+\end_layout
+
+\begin_layout Section*
+Centralisation
+\end_layout
+
+\begin_layout Standard
+By both government and international accounts, the JPA was developed as
+ a replacement to the Consolidated Humanitarian Action Plan (CHAP), which
+ is an annual humanitarian appeals process that is traditionally hosted
+ by the OCHA.
+ Within this framework, the OCHA and UN system source aid from the international
+ donor community and implement programmes through the UN system, also making
+ the UN a focal point in the identification of roles and responsibilities,
+ stating longer-term objectives and goals, and developing the framework
+ for monitoring the strategy.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+http://www.unocha.org/cap/appeals/sri-lanka-joint-plan-assistance-northern-provinc
+e-jpa-2011
+\end_layout
+
+\end_inset
+
+ In terms of the degree of consultation with the host government, the CHAP
+ is to be approved by the Foreign Affairs Ministry and respective line ministrie
+s, and does not necessarily have to be formulated with government participation;
+ particularly during the conflict era, when humanitarian action spanned
+ both government and LTTE controlled areas, humanitarian aid workers were
+ more focused on being perceived as 'neutral,' which meant limited degree
+ of government involvement.
+ From the government’s perspective, the CHAP reflected an era when external
+ ' LTTE sympathisers ' had aided the opposition, while in the present, it
+ represented a parallel system of service delivery and thus needed to be
+ better ‘aligned’ with national priorities.
+ This undercurrent was evident during interviews with members of the government
+ stating that the “CHAP was not discussed with the central government at
+ all.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with member from PTF Secretariat, Colombo 
+\end_layout
+
+\end_inset
+
+ More grievously received was the UN Cluster system’s practice of bottom-up
+ consultations to inform the humanitarian response; for the government,
+ “consultations only took place at the district level, with Government Agents
+ who do not have the authority or foresight.” 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with member from PTF Secretariat, Colombo 
+\end_layout
+
+\end_inset
+
+Juxtaposed against this dominant line of institutional thinking, the replacement
+ of the CHAP with the JPA led by the PTF represented the consolidation of
+ control over alternative systems of foreign funding targeting post-conflict
+ regions in Sri Lanka.
+ The military defeat of the LTTE meant the end of a bifurcated aid system
+ wherein ‘humanitarian’ aid was provided by non-government actors in the
+ North, while development aid was provided by the government to the south.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "keen2009compromise"
+
+\end_inset
+
+ While the government goal has been to increasingly channel all aid through
+ the government apparatus, the JPA represents a middle path wherein donor
+ spending would take place within a government road-map.
+ 
+\end_layout
+
+\begin_layout Standard
+Second, the JPA signals that processes and priorities for early recovery,
+ and eventually, development planning for in the post-conflict North would
+ not be independent of the administration’s political stand.
+ A repeated criticism made by the international community regarding the
+ nature of post-conflict reconstruction by the GoSL was the lack of focus
+ on ‘soft’ issues of reconciliation, inter-community dialogue and intra-communit
+y coping in the post-conflict environment.
+ Within the existing human-rights based approach that is privileged by the
+ West and the UN, these issues are closely linked with the idea of transitional
+ justice and accountability for war-time rights violations, without the
+ resolution of which, effective transformation of underlying conflict structures
+ and a durable peace are not possible.
+ The JPA, as the key post-conflict planning framework makes no mention of
+ these concerns, instead presenting a focus on ‘hardware’ issues as the
+ programmatic template which draws from the ‘homegrown’ Sri Lankan model
+ of reconciliation through development.
+ In a separate key communication to donors from the Ministry of Economic
+ Development, headed by Basil Rajapaksa emphasised, the Sri Lankan government
+ equated effective reconciliation and settlement with the addressal of four
+ key developmental challenges
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with Development Partners Forum Secretariat, Colombo
+\end_layout
+
+\end_inset
+
+- Restoring public goods such as health and educational facilities, restoring
+ trade and livelihoods by ameliorating physical capital and communication,
+ restoring key infrastructure and preventing exploitation and inequality
+ of vulnerable groups.
+ The JPA was thus designed as a first steps to the long term adressal of
+ these challenges.
+ To quote an interviewee who has previously been a presidential advisor,
+ ‘ Basil is interested in winning hearts and minds through cement and steel.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with Sri Lankan MP and former member of the Ministry of Disaster
+ Management and Human Rights
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Third, the JPA re-asserts the Rajapaksa government’s depiction of centralised
+ control over the rehabilitation of conflict affected regions as being key
+ to the continued existence of an undivided unitary Sri Lanka state i.e the
+ JPA as being central to national security.
+ This is most significantly a salient response to repeated demands from
+ international actors that the GoSL devolve power to the Northern and Eastern
+ Province as a first step towards correcting the unequal power-sharing structure
+s in the Sri Lankan state.
+ During interviews with government representatives, it was indicated that
+ the external demand for decreased centralisation was perceived as being
+ seditious and contrary to the interests of a united Sri Lankan nation.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with member from the PTF; Interview with Sri Lankan MP; Interview
+ with the Consortium of Humanitarian Agencies, Colombo
+\end_layout
+
+\end_inset
+
+ Under the CHAP, it was felt that implementing agencies would allow the
+ local government agents a greater degree of agency and decision-making
+ authority that undermined the role of the central government and planning
+ authorities, and reinforced regional identities.
+ JPA activities on the other hand, would be carried out under the direct
+ guidance of central government’s line ministries, with approval from the
+ PTF and the responsible ministry heads.
+ During interviews, an interesting insight that emerged was the idea that
+ even in the case that Provincial Council for the North was elected in during
+ the time of implementing the JPA, the control of reconstruction process
+ would continue to be centralised.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with PTF Member
+\end_layout
+
+\end_inset
+
+ It was felt that devolution to any administrative unit other than the central
+ government’s provincial agents would allow for fragmentation among the
+ ranks, allowing regional politicians to ‘politically manipulate and may
+ be overrun any development for personal gain.” Donors in turn discussed
+ this as a personal strategy of the Rajapaksa clan to closely associate
+ with all merits arising from the reconstruction process; as the shine from
+ the Victor’s Peace wore away, it was hoped that the ‘big roads, infrastructure
+ and the newly ‘Sri Lankanised’ North would bring in the votes.’
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with Development Partners Forum Secretariat, Colombo; Interview
+ with Minister Councillor, EU Delegations to Sri Lanka, Colombo; Interview
+ with SDC (Colombo)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In terms of Björkdahl and Höglund’s framework, this centralisation of aid
+ and external participation around the national government is an outcome
+ of the ‘co-option’ response that the government successfully employed,
+ which has allowed a small group of national elite to emerge as ‘translators’
+ in any domestic dialogue with external actors.
+ Here, the focus is not on the entire government or the legislative assembly,
+ but the executive which is governed by Rajapaksa, his brothers, and a close
+ circle of advisers.
+ When tracing back the feed-back loop model to the circumstances that have
+ been instrumental in centralising the power of mediating vertical frictions
+ with external actors in this small group, it is possible to locate culpability
+ in the narrow engagement of peacebuilders with the Sri Lankan civil society.
+ While the overt scapegoating may have ended, the risk-aversion to stimulating
+ domestic debate about the trajectory that this elite is taking, by social
+ factions that are critical of the government, persists.
+ Simply put, there has been a domestic lull and lack of momentum towards
+ holding the government accountable from factions other than the JVP due
+ to the systemic de-legitimisation of groups that endorsed power-sharing
+ solutions in the conflict period.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2013everything"
+
+\end_inset
+
+ While there are a few dissaggregated voices in the form of the Colombo
+ based intelligentsia, the persisting asymmetry in power relations tilts
+ the majority public opinion in favour of the Rajapaksa government and clan.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Divide and Rule
+\end_layout
+
+\begin_layout Standard
+As has been highlighted earlier, the GoSL’s co-option response to the vertical
+ friction that emerged between it and external Western actors over the nature
+ and direction of post-conflict reconstruction, was shaped by the economic
+ concerns of the government.
+ However, in this respect, the Rajapaksa administration has largely focused
+ on courting larger political-strategic donors like the US, UK, Canada,
+ Australia, and the EU, that posses definite potential in terms of expanding
+ economic cooperation.
+ In this respect as funding from the CLM group of donors has declined, both
+ in absolute terms and in comparison to non-traditional donors, and given
+ the lack of significant historical economic ties with these countries has
+ meant that the GoSL has less incentive to encourage their presence in Sri
+ Lanka.
+ This, coupled with the fact that funding for more ‘political’ and sensitive
+ sectors like civil society peacebuilding and human rights has come from
+ this group, has led the GoSL to perceive them as a hindrance.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "SriLankaSPA2011"
+
+\end_inset
+
+ Thus a key strategy adopted by the Rajapaksa administration as a part of
+ its co-option response is to disincentivise any collective Western donor
+ interaction with the government, a divide and rule strategy that is focused
+ on preventing the re-emergence of powerful parallel donor forums that have
+ collective bargaining power, as had existed during the peace-process and
+ briefly during the tsunami response.
+ Secretary to the Treasury, Dr.
+ P.B Jayasundera, who has been a long standing member of Mahinda Rajapaksa’s
+ inner circle, raised this issue as early as 2005, claiming that the “donors
+ are likening themselves as a cartel,” and that, '' if the country is strong
+ enough in its thinking, we should ask not just for a program loan or a
+ balance of payment assistance but ' where are we heading?' ''
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Jayasundra2005"
+
+\end_inset
+
+ Against this line of institutional thinking, in the post-conflict environment,
+ the institution of the PTF can be visualised as the converging platform
+ for the Ministry of Finance and Planning, Ministry of Economic and Urban
+ Development and the Ministry of Defence, each of which is headed by either
+ Mahinda Rajapaksa or his brothers.
+ It represents a common liaison office for interacting with donors and in
+ turn, determining the priority level of a donor in having a direct dialogue
+ with either Ministry or the executive.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with Consortium of Humanitarian Agencies, Colombo; Interview with
+ SDC (Colombo); Interview with Norwegian Embassy (Colombo); Interview with
+ PTF member (Colombo)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Goodhand et al.
+ have noted that compared to the conflict period, where there were a number
+ of donor forums and working groups that placed collective demands on the
+ government (hence the likening to a cartel), the PTF has worked to disincentivi
+se collective bargaining.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "SriLankaSPA2011"
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Donor partners meeting – monthly review of the situation chaired by the
+ World Bank, ADB, UN + 1 bilateral; Bilateral Donor Group (BDG) chaired
+ by EU delegation and Switzerland, which has several working groups – Human
+ Rights (EU and UN office of HR); Mine action (UNDP/USAID); DDR (USAID);
+ civil society; diaspora; police; Donor Peace Support Group; INGO heads
+ ‘coffee club’.
+ Examples of coordination bodies and groupings for humanitarian action include:
+ Coordination Committee for Humanitarian Assistance (CCHA) Chaired by GoSL;
+ Inter-Agency Standing Committee (Humanitarian/UN and NGOs); UN cluster
+ meetings; Post-tsunami donor groups; ICRC/IFRC networks;
+\end_layout
+
+\end_inset
+
+At the time of research, it was found that in the post-conflict period there
+ were largely three functional donor collective platforms - the Donor Coordinati
+on Forum and the Bilateral Donor Forum were largely informal structures
+ that have been likened to ‘Coffee club’ meetings.
+ The Development Partner’s Forum, which is organised by a Secretariat housed
+ in the World Bank, represents the only formal functional collective platform.
+ Through interviews with the Development Partner’s Forum Secretariat, it
+ became clear that the forum was more intended for de-facto organisation
+ between external partners in the Sri Lankan context, rather than being
+ a bargaining platform with the government.
+ It was tacitly understood that the government preferred bilateral communication
+, and according the the DPF Secretariat, it was increasingly difficult to
+ establish contact or dialogue with Sri Lankan policy makers, despite the
+ fact that at its conception, the Forum had visualised the regular participation
+ of government officials.
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "DPF"
+
+\end_inset
+
+ The Forum now presents as being an internal problem-solving forum for Western
+ bilaterals and multi-laterals.
+ Significantly, none of the non-traditional donors operational in Sri Lanka
+ had a constant presence on the forum and not due to lack of invitation.
+\end_layout
+
+\begin_layout Standard
+A second institutional practice that mirrors this intent of ‘divide and
+ rule’ is the formal process of collaboration between the government and
+ external actors.
+ Donors that were interviewed confirmed that they either had signed direct
+ bilateral Memorandum of Understanding (MoUs) with the respective line ministrie
+s in the period immediately before the PTF was operational, or had signed
+ direct MoUs with the PTF.
+ However, in both cases, the all reconstruction and rehabilitation work
+ related permissions were cleared by the PTF, which worked closely with
+ the Ministry of Defence.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+From 2009 onwards, NGOs working in post-conflict regions are required to
+ register with the Ministry of Defence and while humanitarian agencies are
+ looked after by the PTF
+\end_layout
+
+\end_inset
+
+ Given that the PTF is ultimately responsible to the President, who is also
+ the head of the Ministry of Defence, it is felt that the entire process
+ of donor fragmentation is closely based on the personal agenda of the Rajapaksa
+ family first, and then to a much lesser degree with that of the UPFA coalition.
+ Within this institutional structuring, and against the continued distrust
+ and risk-aversion in the domestic civil-society, the CLM donors have taken
+ to implementing all post-conflict related programmes either through their
+ local staff agencies (eg.
+ SDC, GIZ, NORAD) or through the UN system and INGOs.
+ It was felt that in the case a local implementer was chosen, it would lead
+ to additional scrutiny and bureaucratic procedures.
+ However, in response, the government’s concern in controlling these control
+ of INGOs and UN agencies, has become a key focus in the postwar.
+ 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with former UN resident Co-ordinator (Geneva), Interview with
+ UNDP (Colombo)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Third, among CLM donors, there was also a distinct awareness that the treatment
+ of political-strategic donors was markedly different, as the latter group
+ was allowed many more opportunities to have a direct dialogue with the
+ government.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interview with with SDC (Colombo); Interview with Norwegian Embassy (Colombo);
+ Interview with Minister Councillor, EU Delegation to Sri Lanka (Colombo)
+\end_layout
+
+\end_inset
+
+ Through interviews, it was also felt that through the composition of the
+ PTF, the president intended to send a less conspicuous message: Both Gotabaya
+ and Basil Rajapaksa, respectively the Secretary of Defence and the Minister
+ of Economic Development and Urban Planning, are US greencard holders, and
+ their presence of on the PTF is intended to be both reassuring as well
+ as assertive in ‘aligning’ these donors with larger disbursement pressures
+ with the domestic agenda on reconstruction in the North, and the larger
+ government economic agenda.
+ This success of this is reflected again in the funding patterns of the
+ JPA, where states from the Western political-strategic group has been the
+ largest funders.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "JPA2012"
+
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "JPA2011"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Thus, despite the failure of the JPA as programme, it can be argued that
+ the government has been sufficiently successful in its larger goal of ‘squeezin
+g out’ donors involved in peacebuilding through a process of establishing
+ institutions and processes that encourage aid and donor fragmentation.
+ It is however important to reiterate that the government did not cause
+ this fragmentation, but merely effectively leveraged it towards creating
+ greater operational differences between the political-strategic and ethical-pri
+nciples (CLM) donors.
+ Its co-option response where it presented its post-conflict agenda as being
+ responsive to and derived from the international concern for human rights
+ but through a domestic process thus effectively helped delay greater pressure
+ from larger, more important donors.
+ This left the smaller CLM donors to salvage a civil peacebuilding mission,
+ without required backing, in a context that had become fundamentally opposed
+ to the ‘Western’ tenants that the liberal peace, due to past over-sight
+ of the peacebuilders.
+ 
+\end_layout
+
+\end_body
+\end_document

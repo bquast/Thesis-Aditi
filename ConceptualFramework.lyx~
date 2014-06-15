@@ -1,0 +1,1326 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 476
+\begin_document
+\begin_header
+\textclass report
+\begin_preamble
+\usepackage[style=verbose,natbib=true,backend=biber]{biblatex}
+\usepackage{hyperref}
+\usepackage{tocbibind}
+
+\addbibresource{~/Thesis-Aditi/thesis.bib}
+
+\def\nompreamble{\addcontentsline{toc}{chapter}{\nomname}\markboth{\nomname}{\nomname}}
+
+\let\citet\footcite
+\end_preamble
+\use_default_options true
+\begin_modules
+biblatex
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command biber
+\index_command default
+\float_placement !th
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_author "Aditi Srinivasan"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine natbib
+\cite_engine_type authoryear
+\biblio_style plainnat
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 2
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Conceptual Framework
+\end_layout
+
+\begin_layout Standard
+This chapter provides a conceptual discussion of the research topic by focusing
+ on the specific form of peacebuilding that has been carried out by ethical-prin
+cipled donors in Sri Lanka.
+ It addresses the difference of this type of peacebuilding from typically
+ cited cases of peacebuilding in Afghanistan and Iraq, as it has not involved
+ any form of top-down nation-building or state-building in Sri Lanka.
+ Thus, the usage of an umbrella term “peacebuilding,” to describe activities
+ towards building different versions of a liberal peace in these different
+ contexts would be confusing, and conceptually unsound.
+ It then discusses the critical theorists’ critique of the emancipatory
+ peacebuilding strand , as was operationalised in the Sri Lankan context,
+ in order to examine flaws in the liberal peacebuilding model which overlooks
+ the potential that ‘local agency’ and resistance has to destabilise a liberal
+ peace.
+\end_layout
+
+\begin_layout Section
+Disaggregating peacebuilding
+\end_layout
+
+\begin_layout Standard
+The first institutional articulation of the peacebuilding discourse, which
+ emerged following the end of the Cold War, can be traced to Boutros Boutros
+ Ghali’s 1992 ‘An Agenda for Peace.’ In the report, the UN Secretary-General
+ argued that there was a need to ‘identify and support structures which
+ will tend to strengthen and solidify peace in order to avoid a relapse
+ into conflict.’
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.11)"
+key "boutros1992agenda"
+
+\end_inset
+
+ The collapse of the Soviet Union in 1990 had saliently signaled the superiority
+ of the liberal paradigm, and thus, in identifying intrastate conflicts
+ as the most significant threat to the international order, this key document
+ also located the solution within the liberal peace framework - it called
+ for an expansion in the role of the international community from only containin
+g conflicts (peacekeeping) to resolving conflicts (peacebuilding).
+\begin_inset CommandInset citation
+LatexCommand citet
+key "boutros1992agenda"
+
+\end_inset
+
+ Recurrently criticised as a ‘set of problem-solving strategies’ as opposed
+ to a concretely developed framework, the term peacebuilding has come to
+ be associated with a wide-range of interventions in conflict and post-conflict
+ contexts.
+ The proliferation of activities and strategies has meant that the term
+ is less concerned with ‘how’ to achieve peace, as opposed to what this
+ peace must look like.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.3)"
+key "holt2011aid"
+
+\end_inset
+
+ As a result, peacebuilding has come to be associated with the end ideal
+ that the economic and political reforms it endorses seek to achieve - to
+ build peace within and between states through the promotion of liberal
+ democracy and market economics.
+ The theoretical underpinning of liberal peacebuilding project is the notion
+ of liberal peace.
+ According to this, democracies based on the rule of law are less likely
+ to go to war due to domestic institutional constraints upon leaders, and
+ due to the economic interdependence that arises out of pursuing market
+ economics globally.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+after " (pp.3)"
+key "bellamy2004introduction"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Goodhand’s distinction between the different types of donors based on the
+ conflict sensitivity of their aid marks a break from earlier literature
+ that focused on variation in institutional behaviour between donors, as
+ these typically discussed the issue within the traditional scope of development
+ aid as aid in a non-conflict environment.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 67)"
+key "goodhandconflict"
+
+\end_inset
+
+ Within this scope, conflict situations are viewed as areas of operation
+ for humanitarian aid alone, as was the dominant practice till the end of
+ the Cold War.
+ The peacebuilding discourse, in this sense, marks a new orientation for
+ development aid in conflict and post-conflict contexts.
+ It was developed with the intention of establishing continuities between
+ humanitarian and development aid, while attempting to harness the potential
+ of development aid in conflict resolution and transformation processes.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "macrae2004beyond"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+One part of critical theory on peacebuilding, in the exercise of critiquing
+ the seeming homogeneity of the discouse and to outline the inherent tensions
+ in conceptualisation and implementation of the project, has identified
+ that there are four distinct interrelated strands of liberal peace and
+ hence, multiple ‘peacebuildings.’ Oliver Richmond and John Heathershaw argue,
+ that these differences and contentions are obscured in mainstream policy
+ discourse in order to create a seemingly cohesive meta-narrative, where
+ peacebuilding is more ‘described than defined,’ as a set of problem-solving
+ strategies that are universal.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 597)"
+key "heathershaw2008unpacking"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2006problemof"
+
+\end_inset
+
+ In their disaggregation of different peacebuilding strategies, there is
+ a differentiation between the underlying vision of peace as conflict management
+, peace as order and peace as justice.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 604)"
+key "heathershaw2008unpacking"
+
+\end_inset
+
+ Each of these different versions of peace reflect the four intellectual
+ strands about the possible ontology of the liberal peace- the ‘victor’s
+ peace’, the ‘institutional peace’, the ‘constitutional peace’ and the ‘civil
+ peace,’.
+ The victor’s peace reflects the age-old realist argument that a peace that
+ rests on a military victory and upon the hegemony of a victor is more likely
+ to survive.
+ The institutional peace rests upon attempts to anchor states within a normative
+ and legal context in which states multilaterally agree how to behave and
+ how to enforce or determine their behaviour, reflecting an idealist, liberal-in
+ternationalist vision.
+ The constitutional peace develops from the liberal Kantian argument that
+ peace can only be developed through democracy, free trade and the prevalence
+ of cosmopolitan values.
+ The final identifiable strand is that of the civil peace.
+ It draws from the sphere of direct action and democracy, towards the attainment
+ of democratic governance and basic rights.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 297)"
+key "richmond2006problemof"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The first gradient of peacebuilding, which privileges the development of
+ democratic systems in post-conflict contexts, was mainstreamed into global
+ policy discourse and practice by the UN under Boutros Boutors Ghali, and
+ later Kofi Annan, against the rekindling of liberal internationalist ideals
+ in the aftermath of the Soviet Union’s collapse.
+ First operationalised following the Balkan Crisis, democratic peacebuilding
+ subsumed under it the concepts of peacemaking, and peace-enforcement along
+ with the traditional peacekeeping role that the UN system had carried out
+ during the Cold War.
+ The emergence of the peacebuilding discourse intimately linked with reconceptua
+lisation of notions of state sovereignty.
+ During the Cold War, International interventions had been underscored by
+ a Westphalian notion of the state, wherein the desire to endorse the pursuit
+ of liberalism and democracy took place against the recognized precedence
+ of territorial and political sovereignty.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.3)"
+key "bellamy2004introduction"
+
+\end_inset
+
+ The end of the Cold War marked a transition to a post-Westphalian conception
+ of sovereignty that inextricably linked peace within states to peace between
+ states, with a liberal system of economic and political structuring being
+ advocated as the ideal form of sovereign governance.
+ The underlying rationale was that liberal democratic states, through increasing
+ trade relations and economic integration along with an open political culture,
+ are most likely to make decisions that are mutually beneficial.
+ As argued by former US President Clinton, ‘democracies don’t attack each
+ other, ’ drawing from which, ‘the best strategy to insure our security
+ and to build a durable peace is to support the advance of democracy everywhere’.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "obama2010state"
+
+\end_inset
+
+ Reflective of this, the Agenda of Peace suggested a wide range of post-conflict
+ interventions that included the monitoring of elections, reform of governmental
+ structures, and the promotion of political participation.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.32)"
+key "boutros1992agenda"
+
+\end_inset
+
+ Heathershaw underlines that the statement of intent was broad enough to
+ allow participation by every UN agency in a project that had an explicit
+ discursive link with the ethics of liberal-democracy.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 601)"
+key "heathershaw2008unpacking"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Against the experience of democratic peacebuilding experiments in Cambodia,
+ Latin America and Kosovo, it became clear that the nature of ‘peace as
+ order’ was not entirely consensual, as its creation often hinged on a condition
+al relationship between peacebuilding agents and recipients.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 304)"
+key "richmond2006problemof"
+
+\end_inset
+
+ Identified as a ‘conservative’ model of peacebuilding, the process of democrati
+c norm diffusion in post-conflict societies took place through an enforced
+ norm transfer.
+ Initially, this ‘enforcement’ entailed a carrot and stick process of allocating
+ benefits or punitive measures to the reforming country by the multilateral
+ liberal system.
+ However soon, in the highly charged security environment in the aftermath
+ of the 9/11, there was emerged a consensus among a small group of Western
+ states on the use of physical force in order to enforce these norms.
+ While the Balkans, Afghanistan and Iraq represent the extreme extent of
+ this shift, moderate versions of interventions guided by the ‘peace as
+ order’ vision have taken the form of conflict-management, and can be seen
+ in Mali, The Democratic Republic of the Congo and Angola; in the latter
+ set of cases, the ‘host’ state continues to have some say in the kind of
+ order that is to be established.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "newman2009new"
+
+\end_inset
+
+ The key difference between peace as conflict management and peace as order
+ has also been the point of intervention - in the latter conceptualisation,
+ described as ‘hyper-conservative’ peacebuilding, interventions are pre-emptivel
+y undertaken in contexts that are considered prone to conflict due to the
+ existence of illiberal governance systems and a consequent lack of basic
+ security.
+ The key target of ‘peace as order’ is thus, the failed state, which to
+ peacebuilders , is representative of anarchy that has the potential to
+ destabilise the international system , allowing for the repositioning of
+ peacebuilding as state-building.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.12)"
+key "newman2009new"
+
+\end_inset
+
+ At the very core of this notion is the need for a militarily imposed settlement
+ in order to reconfigure who has the monopoly over force in the identified
+ ‘failed’ state.
+ This established basic security as an a priori condition to any form of
+ successful domestic and international institutional development of a democratic
+ peaceful order.
+ As Krause and Jutersonke note, a key feature in the formulation of peacebuildin
+g as state-building processes is the institutional linking of security with
+ development and development aid by donors.
+ Through the Cold War Era, within Western states, these had been separately
+ pursued by parallel institutional and political structures.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 455)"
+key "krause2005peace"
+
+\end_inset
+
+ Following 9/11, development aid has become an explicit instrument in the
+ stabilisation and state-building agenda that certain Western actors undertook
+ under the umbrella of ‘War on Terror.’ The clearest indication of this blurring
+ between the two spheres, leading to the ‘securitisation of development’
+ is the emergence of aid practices that purely lend to the military rationale
+ of these operations, and are often disbursed in coordination with military
+ authorities.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2004peace"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Heathershaw argues that while the emergence of the peacebuilding as state-buildi
+ng discourse has emerged to be the dominant focus of policy, academic and
+ popular literature in the last decade, the tendencies toward this can be
+ traced from the early 1990s.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "heathershaw2008unpacking"
+
+\end_inset
+
+ Academics like Helman, Rathner and Zartman used ideas of ‘failing’ or ‘collapsi
+ng state’ when discussing the increase of civil wars in Africa, while the
+ CIA funded a wide scope research programme called the State Failure Task
+ Force.
+ But the possible main-streaming of military interventions during the mid
+ 1990s faced an insurmountable roadblock in the form of high-profile failures
+ of state-centric peacebuilding projects in Somalia and Rwanda.
+ The potential centralisation around the ‘state failure’ agenda was thus
+ delayed by a shift in focus to ‘people centric’ peacebuilding, against
+ a call for new approached that moved away from the state, and adopted a
+ more consensual peacebuilding practices that built peace from the grassroots.
+ 
+\end_layout
+
+\begin_layout Standard
+During this period, against the mass backlash against top-down peacebuilding,
+ which was criticised as hegemonic and neo-imperial, donors and the peacebuildin
+g community sought to move towards a more measured approach that equally
+ divided risks and dividends between the peacebuilders and recipients.
+ Based on a broad conflict transformation model which recognised the interaction
+ of social, political and economic factors and inequalities in creating
+ and perpetuating conflict, peace was reconceptualised as social justice.
+ Peacebuilding was then presented as a form of custodianship, wherein through
+ a combination of consent, inducement and occasional coercion, peace as
+ justice can be achieved through facilitating the acceptance of difference
+ and otherness, as well as the institutionalisation of social justice.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 294)"
+key "richmond2006problemof"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As Richmond discusses, the pursuance of civil peace is an anomaly in thinking
+ about liberal peace, because the state is not envisioned as the site of
+ transformation.
+ It instead privileges individual agency as a means to achieve human security
+ and justice, beyond the state system, and was seen as the ‘emancipatory’
+ version of liberal peace.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.294)"
+key "richmond2006problemof"
+
+\end_inset
+
+ The incorporation of civil society in peacebuilding interventions can also
+ be discussed as a more invasive peacebuilding.
+
+\series bold
+ 
+\series default
+First, the positioning and access of CSOs made possible more intimate forms
+ of norm dissemination, helping construct a ‘peacebuilding consensus’ among
+ the masses.
+ Second, in states which were perceived to be ‘difficult’ or ‘inadequate’
+ in cooperating with the international community, funding agencies positioned
+ CSOs as an ancillary form of governmental authority.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2008conflict"
+
+\end_inset
+
+ Richmond highlights this emancipatory civil society-led peacebuilding is
+ typically carried out in contexts where the primary ‘peacebuilders’ are
+ donor agencies, without the prioritisation of negotiations in the state-centric
+ arena; specifically the group of small donors or the ‘like-minded’ states,
+ who prioritise the effective achievement of aid project goals, privilege
+ the emancipatory version of peacebuilding.
+ The centrality and application of this gradient of peacebuilding led by
+ aid agencies or donors is distinctly different from more orthodox forms
+ of peacebuilding, where civil society peacebuilding is preceded by military
+ interventions as has increasingly become the norm.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2006problemof"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Critical theorists argue that in the last decade, as evidenced by the institutio
+nalisation of concepts like the ‘Responsibility to Protect,’ proponents
+ of peacebuilding as state-building have attempted to present civil peacebuildin
+g as a part or a stage in the larger state-building process, associating
+ civil society activism with basic security.
+ In an attempt to present a cohesive narrative in the form of a universal
+ ‘peacebuilding consensus’, these different gradients of peacebuilding may
+ often by combined and thus, in any one peacebuilding intervention, these
+ different strategies may be employed at different points; this chronology
+ and degree to which a gradient is privileged depends on priorities associated
+ with dominant state interests, donor interests and the capacity of peacebuildin
+g actors.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2010resistance,richmond2004peace,mac2013local"
+
+\end_inset
+
+ In light of this, the biggest criticism against the homogenisation of these
+ different discourses and modes of operation is that this process may well
+ limit the ability of implementer to take into account operational realities;
+ conservative, orthodox, and emancipatory versions of the liberal peace
+ may actually contradict and undermine each other, leading to disruption
+ in the broader peacebuilding process.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "heathershaw2008unpacking"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Questioning an ‘emancipated’ liberal peacebuilding
+\end_layout
+
+\begin_layout Standard
+In cases like Sri Lanka, which represent a conflict and post-conflict context
+ where there government can competently provide basic security and where
+ there are ostensibly functional democratic practices, the emancipatory
+ gradient presents with the only course of peacebuilding intervention.
+ As a result of this, emancipatory peace-builders in these contexts face
+ radically different challenges than state-builders, who have the sanction
+ of force.
+ Led by donors and aid agencies, the operationalising of emancipatory peacebuild
+ing in such contexts is motivated by larger concerns in the aid community-
+ first, for the sake of the ethics and legitimacy of the peacebuilding project,
+ and second, the search for efficiency and sustainability.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "donais2009empowerment"
+
+\end_inset
+
+ Principles of donor engagement based on there two concerns, that are considered
+ mutually reinforcing, were developed in a operational scope that is much
+ broader than peacebuilding.
+ These principles originally developed with a focus on non-conflict contexts,
+ but have also come to guide donor-led peacebuilding interventions .
+ This has been stressed on by the 2008 Accra Declaration which states that,
+ “aid effectiveness principles apply equally to development co-operation
+ in situations of fragility, including countries emerging from conflict,
+ but that these principles need to be adapted to environments of weak ownership
+ and capacity.”
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp.5)"
+key "declaration2005accra"
+
+\end_inset
+
+ The general thrust of most principles guiding the aid architecture has
+ been that ethical and legitimate donor interventions are more likely to
+ produce more effective and sustainable results; In this respect, the idea
+ of ‘local ownership’ or ‘community led’ interventions has come to become
+ a commonly shared buzz-word between the aid and peacebuilding worlds.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "development1996shaping"
+
+\end_inset
+
+ 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+‘local ownership’ as a source of legitimacy and effectiveness in non-conflict
+ contexts has been a key concern for traditional bilateral donors since
+ the early 1990s.
+ It was formally recognized as a key concern for development aid in 1996,
+ with the OECDs Development and Assistance Committee (DAC) which called
+ for a comprehensive approach that ―respects local ownership of the development
+ processes (DAC, 1996: 9).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+However, despite the seemingly more consensual of intervention reflected
+ in the emancipatory version of peacebuilding, critical theorists are equally
+ skeptical of its ‘emancipatory’ potential, as they are of the more orthodox
+ gradients, arguing that it takes places within the limited space that the
+ neo-liberal paradigm will allow.
+ The failure of the different peacebuildings is thus, ‘ not because of the
+ efficiency problems related to the technicalities of its workings, but
+ in the problematique [sic] assumptions and contradictions within the model
+ itself ...’
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 5)"
+key "tadjbakhsh2011rethinking"
+
+\end_inset
+
+ The emancipatory gradient continues to be based on the machine-like workings
+ and faith-based assumptions of liberal peace, attempting to technically
+ addressing contextual problems with universal answers, in the process,
+ denying the local constituencies’ right of being an organic part of their
+ own peace.
+\end_layout
+
+\begin_layout Standard
+The linear framing of international intervention in the cause of peace has
+ an implicit liberal telos.
+ For the achievement of this telos, the role of emancipatory peacebuilding
+ can be understood as the removal of blockages by entrenched power elites
+ by freeing the local agency of civil society, which, it is assumed, would
+ undoubtedly express their support for universal liberal democratic norms.
+ It thus constructs a dichotomy between those doing the peacebuilding interventi
+on, and those for whom the intervention is designed.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "chandler2013peacebuilding"
+
+\end_inset
+
+ Within this imagery, the ‘local’ is understood as lacking agency and mobility,
+ and post-conflict spaces are conceptualised as empty spaces in need of
+ new norms, governing institutions and patterns.
+ Further, liberal peacebuilding relies on a form of civil society that is
+ relatively free of ethno-nationalism and generally oriented towards liberal
+ norms and values, in other words, mirrors the Western model.
+ As a result, it overlooks a range of other ‘un-like minded’ actors that
+ play a key role in mobilising social attitudes and sentiments.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "walton2012between"
+
+\end_inset
+
+ Certain scholars have described this as a “romanticising of the local,”
+ wherein liberal peacebuilders are unable to constructively engage with
+ local agencies and processes due to their specific normative understanding
+ of what compromises the ' local ' to be engaged with.
+ It thus overlooks the possibility that the emergence of local agencies
+ could mean a resistance to the ‘emancipatory project’ of liberal peace
+ builders, which may lead to claims of autonomy from the regional and internatio
+nal sphere and the intended end vision.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2005transformation"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand citet
+key "richmond2010resistance"
+
+\end_inset
+
+ This resistance has the potential to destabilise the monopoly of both national
+ elites and the interveners.
+\end_layout
+
+\begin_layout Standard
+Given that aid or funding the key instrument for mobilising peacebuilding
+ activities in conflict, in peacebuilding contexts like Sri Lanka, international
+s are increasingly realising that this local resistance is reflected in
+ the reverse imposition of conditionalities to their aid.
+ As Richmond notes, ‘internationals are now learning that where they set
+ conditionalities so local actors also expect conditionalities to be observed.
+ Furthermore, local actors are becoming adept at manipulating conditionalities
+ in their favour.
+ If a sustainable peace is to be constructed, there can be no exit until
+ both locals and internationals have agreed that such a version of peace
+ has actually been achieved.” 
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 304)"
+key "richmond2006problemof"
+
+\end_inset
+
+Thus while emancipatory liberal peacebuilding has coalesced around idea
+ of local ownership, civil society or capacity-building approaches, implying
+ an acknowledgement of concerned power relations between the local and the
+ international, it is a selective acknowledgment that fails to recognise
+ the potential for local agency and resistance.
+ What this implies at an operational level is that peacebuilders choose
+ to view any form of resistance as ‘non-compliance,’ or in the language
+ of peacekeeping, as “spoilers” that are to be mitigated rather than engaged
+ with, as a result of which, the final consensus is as artificial as top-down
+ models.
+ 
+\end_layout
+
+\begin_layout Standard
+Drawing from this, critical theorists have called for a ‘local turn’ in
+ peacebuilding, that eschews the normative liberal ideal and instead adopt
+ a pluralist view of difference, conceptualising peace as hybrid, multiple
+ and often agonitic.
+ The ‘local turn’ thus implies an engagement with the critical and resistant
+ local agencies that have a role in shaping a subaltern view of peace, and
+ how they act to engage with different conflict related social dynamics
+ and the structures that maintain them.
+ Drawing from the post-structuralist writings on resistance to structural
+ domination, the notion of a “local turn” implies that agency can only really
+ be exerted politically through public mobilization on a large scale.
+ This collective agency emerges through forms of hidden, everyday resistance,
+ in the engagement with structural power.
+ They are discussed as being “hidden” because they operate at a level where
+ they may be invisible to formal theory and methodologies, and those that
+ operate based on these.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "chandler2013peacebuilding"
+
+\end_inset
+
+ Critically, local agency is not a “new” phenomenon and has always been
+ present in different forms.
+ It is the present crisis of the liberal peace, along with the growing number
+ of researchers from the “sub-altern” ranks, that has enabled academia to
+ “see” the local and bring into focus how legitimacy can be collectively
+ constructed by the different elements of the local, and in the case of
+ Sri Lanka, by dominant elements that were fundamentally against any liberal
+ peacebuilding.
+ 
+\end_layout
+
+\begin_layout Section
+Analytical framework : Friction in Global-Local Encounters
+\end_layout
+
+\begin_layout Standard
+Informed by the critique of different strands of peacebuilding, there has
+ been a growing body of work led by peacebuilding practitioners as well
+ as academics focused on main-streaming academic thinking into policy debates
+ that have adapted this theoretical idea of a ‘local turn’ towards developing
+ analytical frameworks for assessing post-conflict environments and peacebuildin
+g.
+ Björkdahl and Höglund have attempted to further refine the theory of a
+ ‘local turn,’ and develop the idea of ‘friction’ as a conceptual lens through
+ which conflictual engagements between global and local ideas, actors and
+ practices in peacebuilding can be identiﬁed and analysed.
+ The notion of ‘friction’ is based on the recognition that the constructed
+ dichotomy between those doing the peacebuilding, and those for whom the
+ intervention is designed is a false separation; global– local interactions
+ are identified as being encounters that ‘can be both a site for empowerment
+ and for domination.’
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 35)"
+key "selimovic2010remembering"
+
+\end_inset
+
+ Drawing from the post-modernist thought, its analytical lens of perceiving
+ all interactions in terms of the exercise of power and resistance to this
+ power, ‘friction’ with respect to the peacebuilding paradigm refers to
+ the evolving confrontations that necessarily emerge when external actors,
+ discourses, and practices interact with the local counterparts at peacebuilding
+ sites.
+ 
+\begin_inset CommandInset citation
+LatexCommand citet
+key "bjorkdahl2013precarious"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The friction metaphor was first developed by Tsing to capture the diversity
+ and different types of inequality that influence global-local encounters
+ and give rise to new power dynamics in the process.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "tsing2005friction"
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Tsing introduces this idea suggests that ‘[r]ubbing two sticks together
+ produces heat and light; one stick alone is just a stick'
+\end_layout
+
+\end_inset
+
+ Peacebuilders tend to overestimate the attractiveness of the normative
+ package inherent in the liberal peace while under-estimating the power
+ of local agencies to resist and transform their project.
+ In this context, friction can be understood as the process which is triggered
+ by conflictual encounters and then gives rise to other outcomes, rather
+ than being an outcome to study itself.
+ Björkdahl and Höglund equate the notion of friction to concepts like localisati
+on, vernaculisation and hybridisation, which in common indicate the agency
+ of the recipient to mold and influence the direction of an externally introduce
+d idea.
+ The added value that this brings to the analysis of peacebuilding encounters
+ is the recognition that while any encounter will result is some sort of
+ friction, dependent on the ability of actors to negotiate these, the outcome
+ can be oppositional but also accommodating, or selectively accommodating.
+ Thus the idea of friction in peacebuilding encounters refers to, “ an uneven,
+ unexpected and uncertain process in which global and local confluence to
+ mediate and negotiate difference and afﬁnity.
+ Friction thus tends to change facts on the ground as it creates new and
+ messy dynamics, agencies, and structures as well as unexpected coalitions
+ built on ‘awkwardly linked incompatibles’ based on either universal or
+ particular ideas.”
+\begin_inset CommandInset citation
+LatexCommand citet
+after " (pp. 295)"
+key "bjorkdahl2013precarious"
+
+\end_inset
+
+ Thus, while in cases like Sri Lanka, this friction has led to perverse
+ outcomes by valourising local actors against ideas of power-sharing, in
+ other contexts it may well encourage greater democraticastion.
+ 
+\end_layout
+
+\begin_layout Standard
+An important component of this framework is the recognising the multi-layered
+ nature of power contests.
+ Peacebuilding interactions can see the emergence of vertical frictions,
+ that results in asymmetrical relations between the international and the
+ local.
+ But there is also the issue of horizontal frictions, wherein these interactions
+ impact the relationships between different ‘domestic,’ or ‘local’ actors
+ or between the external global actors, in the post-conflict landscape This
+ implies that there is a potential that in the local, there are different
+ perceptions about the peacebuilding process as a result of which a first
+ contest may very well take place between local factions, the result of
+ which then impacts what course the vertical friction will take.
+ As a recognition that there is a multiplicity in terms of power structures
+ that determine the eventual outcomes, the analytical point of departure
+ is to use an actor-oriented perspective to identify the points at which
+ this mediation or negotiation occurs, and thus involves moving beyond the
+ broad categories of ‘conﬂict between the local and the global.’ 
+\end_layout
+
+\begin_layout Standard
+Björkdahl and Höglund use the concept of friction to identify different
+ categories of responses in terms of compliance, adoption, adaption, resistance,
+ co-optation and rejection .
+ A response of compliance by local actors results in a forced adherence
+ or submission to global external discourses.
+ An adoption response refers to the local adoption of global norms.
+ An adaptation response refers to the hybridisation of global norms and
+ practices with local characteristics.
+ A co-option response is largely led by the local elite and sees the strategic
+ adoption of external norms and practices as a means of averting pressure.
+ The resistance response sees a dominance of global characteristics and
+ a limited adoption of external norms.
+ Finally, the rejection response refers to the complete exclusion of global
+ practices from the local.
+ These responses create new realities as they alter power relations, transform
+ agency and mediate practices related to peacebuilding.
+ The new realities, which emerge from these encounters, will in turn create
+ feedback loops which may create new encounters.
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:feedback-loop"
+
+\end_inset
+
+ As an example of a feedback loop, the intensification of Sinhala nationalistic
+ fervour among the masses, which is reflective of relective friction between
+ ‘local’ actors and peacebuilders, was responsible for bring into power
+ the Rajapaksa led United National Freedom Party (UNFP), whose election
+ rhetoric was a decisive no-negotiate policy with regards to the LTTE.
+ This effectively altered the local realities and signaled new conditions
+ for the next stage of interactions and the potential directions any vertical
+ friction would go.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Björkdahl and Höglund's Friction and Feedback Loop Model
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:feedback-loop"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename figure/feedback.png
+	scale 120
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Björkdahl and Höglund have used this framework in Sri Lanka order to conduct
+ a short-term analysis, which focuses on the dynamics that exist and emerged
+ due to demands for transnational justice.
+ There however continues to be a need to analyse friction in the context
+ of peacebuilding efforts in Sri Lanka from a the long-term perspective.
+ This requires an analysis of the feedback loops created by long-term engagement
+ and discussing how the resulting outcomes bring into existence new and
+ unexpected arrangements.
+\end_layout
+
+\begin_layout Section
+Research Design
+\end_layout
+
+\begin_layout Standard
+As an explanation to why the coalition of like-minded donors rapidly reduced
+ peacebuilding interventions in the Sri Lankan post-conflict context despite
+ the seemingly less-confrontational nature of their project, this thesis
+ examines the factors and dynamics that demonstrate the primacy of local
+ actors and their agency in ‘allowing’ any form of external peacebuilding
+ .
+ As discussed by Berdal, ' the unfortunate consequence of conceptually abstracti
+ng peacebuilding is that these operations do not adequately leverage local
+ knowledge or appreciate how past experiences set limits on what outsiders
+ can achieve.'
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 214)"
+key "berdal2009building"
+
+\end_inset
+
+ Thus, this thesis has a two fold focus – first, to disaggregate the discourse
+ on peacebuilding and locate the Sri Lankan case within a specific gradient
+ of peacebuilding, against existing documentation on the trajectory and
+ trends of Western peacebuilding engagement.
+ Second, to examine the process by which local challenges to peacebuilders
+ emerged and limited peacebuilding in the post-conflict context.
+ These foci require an engagement with both the theory and practice of peacebuil
+ding in Sri Lanka, and thus three methods have been used in order to develop
+ this research- desk literature reviews of academic studies as well as practitio
+ner papers, primary unstructured interviews and content analysis of government
+ documents and state media reports from 2009 onwards.
+\end_layout
+
+\begin_layout Standard
+The central methodological approach of this thesis is the case study approach,
+ where the objective is to delve into cases in support or against an existing
+ theoretical proposition.
+ In political science, there is a rich history of case study research in
+ public administration and public policy studies, as well as a vibrant contempor
+ary methodological discussion within comparative studies of political system.
+ Yanow et al detail that while “the case study” has been recognised as the
+ most common method of analysis in political science, the term has been
+ used to refer to a range of meanings and usages that vary from specific
+ methods to a research approach.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "yanow2008case"
+
+\end_inset
+
+ They detail that, “those advancing “case study” as a set of methods --
+ the predominant meaning -- engage the concept as a specific form of research
+ involving multi-site studies aimed at establishing causal inferences and
+ hypothesis-testing.
+ Those taking the second perspective typically treat “case study” as part
+ of a broader methodology that emphasizes human meaning and reflexivity.
+ These scholars more often engage in single-site research aimed at detailing
+ the lived experiences of persons in that setting.”
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 2)"
+key "yanow2008case"
+
+\end_inset
+
+ These two perspectives attach a different importance on case study methodology.
+\end_layout
+
+\begin_layout Standard
+This thesis is reflective of the latter tradition of ‘single-site’ case
+ studies, where the nature of analysis is is inductive and human-centered.
+ The focus is to learn about the potentially multiple social realities that
+ characterize the setting and its actors.
+ Yanow et al discuss that field research-based case studies engage in an
+ ethnographic version of observation wherein the number of “observations”
+ ie number of interviews, interactions and examinations of documents and
+ data – does not have the same boundaries as number of locations in which
+ the case study is carried out.
+ Thus, field research generates a wide rage of qualitative-interpretive,
+ within-case “observations” that reflect patterns social relations, routines,
+ organisational behaviours, actions, and so on.
+ In contrast, multi-site case study analysis, which is privileged by the
+ comparative politics sub-field, draws upon case studies to explore human
+ diversity with the intent of using these to establish general propositions
+ about human conditions and interactions.
+ However, since the aim of multiple-site case study analysis is to present
+ and test generalisations, nuances, and specific dynamics are often glossed
+ over in order to focus on commonalities across cases.
+ In other words, “ the focus on law-like generalizations that this entails
+ runs counter to a more interpretive approach that focuses, instead, on
+ verstehen, thick description, reflexivity, and other such elements for
+ establishing the trustworthiness of the research.”
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 7)"
+key "yanow2008case"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In order to addresses the first question regarding the nature of peacebuilding
+ in Sri Lanka and the motivations and modalities of this process, the thesis
+ draws from the critical theory typology of peacebuilding and the critiques
+ that explore emancipatory peacebuilding specifically, as discussed in the
+ earlier sections.
+ The analysis for this question has thus largely been informed through a
+ literature review on peacebuilding and the specific experience of peacebuilding
+ in Sri Lanka.
+ This was then located within the larger body of research that already exists
+ on Sri Lanka, in order to further build on already existing insights on
+ the challenges that the CLM donors and supporters of peacebuilding have
+ had in engaging with a post-conflict state like Sri Lanka.
+ An exploration of the history of peacebuilding during the conflict has
+ been crucial in helping construct what the present government administration’s
+ approach to CLM donors has been 
+\end_layout
+
+\begin_layout Standard
+In order to explore local challenges to and conditionality on external peacebuil
+ders, the assertions made by non-mainstream political groups from early
+ 2003 onwards has been marked as the starting point of analysis.
+ The employment of Björkdahl and Höglund framework of identifying frictions
+ and the power relations that influence the eventual response to this frictions,
+ has been the primary conceptual tool for analysing the nature of local
+ resistance against devolution of powers in the during the conflict and
+ post-conflict periods, and later, the emergence of government imposed condition
+s.
+ The latter set of conditionalities have been motivated by the need to balance
+ appease these local reactions, against macro political considerations of
+ positioning Sri Lanka as a democratic state.
+ The process of identifying the different types of frictions and their point
+ of emergence has, in turn, been informed by a literature review and through
+ fieldwork that was carried out over a period of three months from January
+ to late March 2014.
+ A majority of interviews with national NGOs, think tanks and government
+ officials took place in Colombo.
+ Interviews with donors took place in Colombo, Geneva and in Jaffna, to
+ examine the implementation of peacebuilding on the ground by donor agencies.
+ 
+\end_layout
+
+\begin_layout Subsection
+Ethical Considerations in Designing Research
+\end_layout
+
+\begin_layout Standard
+While it has been five years since the end of the Sri Lankan conflict, fieldwork
+ or research on issues that are considered ‘sensitive,’ particularly in
+ light of the increasing Western pressure on the government, has meant that
+ it continues to be a potentially dangerous setting for external researchers.
+ The agents of peacebuilding, donors and INGOs, who continue to face daily
+ challenges in their domestic interactions toward shaping the post-conflict
+ environment are unlikely to provide information that will put their organisatio
+n in an unfavourable light.
+ Thus, while interviews with donors, senior government staff, INGOs and
+ the UN provided valuable contextual information, it was through informal
+ channels, wherein the most valuable information and analysis was provided
+ ‘off the record.” Fieldwork for this project, clearly touched on highly
+ political themes and issues, particularly in light of the then impending
+ UNHRC session in late March 2014, due to which any external researcher
+ was viewed as a ‘Western fact-finder.’ Thus most of the interviews with
+ government agents and local NGOs had to be done with a degree of caution.
+\end_layout
+
+\begin_layout Standard
+Jacobsen & Landau stress on the need for social scientists undertaking fieldwork
+ in humanitarian situations to continuously maintain high academic and ethical
+ standards, while avoiding the tendency to engage in advocacy research whereby
+ ' researchers already know what they want to see and say, and come away
+ from the research having “proved it.” '
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 187)"
+key "jacobsen2003dual"
+
+\end_inset
+
+ They suggest that one way to mitigate against such “ethical traps” is to
+ fully disclose the methodology which was used, including possible biases
+ and the ethical dilemmas encountered in designing and executing it, which
+ is what this section attempts to do.
+ 
+\end_layout
+
+\begin_layout Standard
+This is particularly important in the specific case of exploring government
+ conditionalities, which are less overt than the local rejection process.
+ Research on this specific type of local agency exercise was based on an
+ assessment of the factors which led to the launch of the Joint Plan of
+ Assistance for the Northern Province (2011) under the Presidential Task
+ Force for Resettlement, Development and Security (PTF), the CLM donor response
+ to this, and how this was related to the departure of donor agencies from
+ the domestic arena.
+ This involved conducting primary research through unstructured interviews
+ with key international policy-makers from the UN and CLM donor agencies
+ who were present in Sri Lanka during the time that the JPA was launched.
+ This helped to grasp the Western donor perspective or narrative of how
+ the trajectory of participating in the Sri Lanka post-conflict context
+ had evolved after the war, as well as identify changes in donor strategy.
+ Supported by testimonies recorded in International Crisis Group reports
+ across years, the initial interviews also helped to piece together an understan
+ding of what the intent and goal of peacebuilding during and after the conflict
+ has been, and how this appropriately fits within existing theoretical work
+ on peacebuilding.
+\end_layout
+
+\begin_layout Standard
+At the same time, a number of interviews were also conducted with key elected
+ representatives to the Sri Lankan Parliament , the PTF in the Northern
+ Province, members from prominent CSOs, and the Indian Donor Team based
+ in Colombo and New Delhi.
+ The interviews with government officials and local CSOs helped in understanding
+ the ‘local’ institutional perspective on and resistance to Western peacebuildin
+g, and further, to clarify the modes and the intent of exercising local
+ agency either in favour or against this peacebuilding.
+ The content from these interviews has helped to flesh out the government’s
+ dilemma with regards to balancing external demands for accountability with
+ local constrains demands for disassociation from the West.
+ The interviews with the Indian Donor Team, on the other hand, helped clarify
+ how the Sri Lankan government has worked with non-traditional or non-OECD
+ donors, and if the similar conditionalities have been placed on Indian
+ aid.
+ This was felt to be relevant as while India is a non-Western donor, it
+ has had a tumultuous and separate history of attempting to build peace
+ in the Sri Lanka during the early years of the war.
+ The value it added to this research was in helping identify what the Sri
+ Lankan government’s alternative model of collaboration with external actors
+ in the reconstruction process looks like.
+ 
+\end_layout
+
+\begin_layout Standard
+The ethics of this research fall into three categories: that the research
+ should avoid doing harm, that those involved do so with consent, and that
+ confidentiality is maintained unless stated otherwise.
+\end_layout
+
+\begin_layout Subsubsection
+‘Do no harm’ 
+\end_layout
+
+\begin_layout Standard
+The active presence of the researcher in a 'dangerous' fieldwork site generates
+ several risks.
+ There is a risk that those involved in the research are somehow punished
+ by those in authority for the opinions that they hold.
+ The principle of ' do no harm ' was therefore followed to the maximum extent
+ possible.
+ Donald Warwick discusses the risk that a researcher could be in danger
+ of prosecution, imprisonment, death or torture for research that is seen
+ as a threat to security.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "warwick1993social"
+
+\end_inset
+
+ There is also potential harm to the research profession in such environments
+ as the actions of a researcher may make it difficult for subsequent studies.
+ This may either take place due to tougher restrictions on research and
+ limitation on the movement of researchers by local authorities, or the
+ inculcation of a culture of fear and/or aversion, where subjects becoming
+ hardened to researchers or prefer to not participate in any further research.
+ In an effort to prevent harm arising from the findings of this research,
+ all quotes in this research are anonymous.
+ To this end, all interviewees were assured that their identity would be
+ kept strictly confidential and that they would never be identified as having
+ participated in the research or as having said particular things 
+\end_layout
+
+\begin_layout Subsubsection
+Researcher's positioning
+\end_layout
+
+\begin_layout Standard
+As Holt discusses, in a ‘divided society,’ there is a danger that all actors
+ are perceived to be partisan based on family name, religion or residence;
+ both ‘insiders’ and ‘outsiders’ are subject to different but equally limiting
+ constraints.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 12)"
+key "holt2011aid"
+
+\end_inset
+
+ As Fujii explains: not only are researchers studying their informants,
+ their informants, in turn, are studying them back – to figure out who the
+ researcher is and whether the researcher is a source of potential threat
+ […] How informants identify researchers can determine the amount or level
+ of access the researcher can gain.
+ If people suspect that researchers are state agents, informants may invoke
+ a party line in interviews and conversations rather than reveal their deeper
+ thoughts.
+ The task of the researcher is to take people's fears and suspicions seriously
+ and try to allay them as much as possible.
+\begin_inset CommandInset citation
+LatexCommand citet
+after "(pp. 233)"
+key "fujii2010shades"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In the case of this thesis, there was a degree of concern over the researcher's
+ identity and intentions, specifically as an academic who is simultaneously
+ perceived as being both 'foreign' (Indian citizen) and 'local' (Tamil surname).
+ My family name was particularly problematic as it indicated that I was
+ from South India, a region that has vociferously denounced the treatment
+ of Sri Lankan Tamils, despite the Indian central government’s move to normalise
+ relations and have a restricted dialogue on this contentious issue.
+ Second, as earlier discussed, against the impended Geneva United Nations
+ Human Rights Council (UNHRC) session of March 2014, where the international
+ community was to vote on the setting up of an independent inquiry commission,
+ any research by a ‘foreigner’ was problematic.
+ That the academic institution I belonged to was in Geneva thus was often
+ an issue.
+ 
+\end_layout
+
+\begin_layout Standard
+The next chapter provides some contextual information on the nature of contempor
+ary Western and peacebuilding engagement during Sri Lankan civil war.
+ It presents the problematique wherein despite mainstream accounts that
+ have focused on the failure of the West mediated peace-process as a consequence
+ of the domestic elite’s instrumentalisation of ethno-nationalism, a more
+ nuanced historical examination indicates that the resistance first emerged
+ from the grass-roots.
+ Till the end of the conflict in 2009, this resistance has played a crucial
+ role in shaping the government’s agenda, which has depended on its support
+ base amongst these groups in order to stay in power.
+ 
+\end_layout
+
+\end_body
+\end_document

@@ -14,7 +14,6 @@
 
 \let\citet\footcite
 \end_preamble
-\options a5paper
 \use_default_options true
 \begin_modules
 biblatex
@@ -97,10 +96,28 @@ biblatex
 
 \begin_body
 
-\begin_layout Chapter
+\begin_layout Chapter*
 
 \lang english
 Conclusion
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{chapter}{Conclusion}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

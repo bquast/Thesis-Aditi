@@ -2,7 +2,7 @@
 \lyxformat 476
 \begin_document
 \begin_header
-\textclass book
+\textclass report
 \begin_preamble
 \usepackage[style=verbose,natbib=true,backend=biber]{biblatex}
 \usepackage{hyperref}
@@ -14,7 +14,6 @@
 
 \let\citet\footcite
 \end_preamble
-\options a5paper
 \use_default_options true
 \begin_modules
 biblatex

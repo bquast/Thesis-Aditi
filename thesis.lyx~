@@ -115,11 +115,7 @@ status open
 
 \end_inset
 
-Local Conditions on the Universal Liberal Peace:
-\begin_inset Newline newline
-\end_inset
-
- Peacebuilding in Sri Lanka
+Local Conditions on the Universal Liberal Peace: Peacebuilding in Sri Lanka
 \end_layout
 
 \begin_layout Author
@@ -358,7 +354,7 @@ name "JPA2011"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename figure/JPA FTS 2011-page-002.jpg
+	filename figure/jpa2011.jpg
 	lyxscale 40
 	display false
 	scale 13
@@ -453,7 +449,7 @@ name "JPA2012"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename figure/JPA 2012-page-002.jpg
+	filename figure/jpa2012.jpg
 	display false
 	scale 30
 	rotateOrigin center

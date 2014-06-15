@@ -354,7 +354,7 @@ name "JPA2011"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename figure/JPA FTS 2011-page-002.jpg
+	filename figure/jpa2011.jpg
 	lyxscale 40
 	display false
 	scale 13
@@ -449,7 +449,7 @@ name "JPA2012"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename figure/JPA 2012-page-002.jpg
+	filename figure/jpa2012.jpg
 	display false
 	scale 30
 	rotateOrigin center
@@ -537,7 +537,7 @@ name "DPF"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename figure/Sri Lanka Development Partners  internal coordination structure as at_ January 2014-page-001.jpg
+	filename figure/structure.jpg
 	display false
 	scale 15
 	rotateOrigin center

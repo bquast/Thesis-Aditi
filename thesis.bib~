@@ -128,10 +128,18 @@ SIDA}
 
 @article{SriLankaSPA2011,
   title={Sri Lanka: Strategic Policy Assesment },
-  author={ Goodhand. Jonathan and Rampton.D and Venugopal.R,and De Mel.N},
+  author={Goodhand, Jonathan and Rampton D and Venugopal R and De Mel. N},
   journal={LSE Repository ; Study Commissoned by DFID},
      year={2011},     
   URL={http://personal.lse.ac.uk/venugopr/Sri%20Lanka%20Strategic%20Policy%20Assessment%202011.pdf}
+}
+
+@book{goodhand2005aid,
+  title={Aid, Conflict, and Peacebuilding in Sri Lanka, 2000-2005},
+  author={Goodhand, Jonathan and Klem, Bart and others},
+  number={1},
+  year={2005},
+  publisher={Asia Foundation Colombo}
 }
 
 @article{mac2013local,
@@ -301,7 +309,7 @@ title={Government--LTTE Peace Negotiations in 2002--2005 and the Clash of State 
 
 @article{bellamy2004introduction,
   title={Introduction: Thinking anew about peace operations},
-  author={Bellamy, Alex J and Williams, Paul},
+  author={Bellamy, Alex J and Williams, Paul D},
   journal={International Peacekeeping},
   volume={11},
   number={1},
@@ -644,7 +652,7 @@ title={Government--LTTE Peace Negotiations in 2002--2005 and the Clash of State 
 }
 
 @MISC{Rajapakse2010,
- author = {M.Rajapakse}, 
+ author = {Rajapakse, Mahinda}, 
   title = {United in peace, lets build a great nation - President at the second swearing ceremony},  
   journal = {President of Sri Lanka, Official Webssite},  
    URL = {http://www.president.gov.lk/index.php}, 
@@ -673,7 +681,7 @@ title={Government--LTTE Peace Negotiations in 2002--2005 and the Clash of State 
 
 @book{UN2012,
   title={Secretary General's Internal Review Panel on United Nations Action in Sri Lanka},
-  author={Secretary-General's Internal Review Pane)},
+  author={Secretary-General's Internal Review Panel},
   year={2012},
   publisher={Executive Office of the Secretary-General (EOSG)}
 }
